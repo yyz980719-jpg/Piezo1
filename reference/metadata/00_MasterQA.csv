@@ -1,0 +1,14 @@
+﻿qa_id,location_or_claim,baseline_value,authoritative_source,source_field_or_rule,status
+BASE-01,Main manuscript pages,17,Word-rendered baseline,page count,LOCKED
+BASE-02,Supplement pages,26,Word-rendered baseline,page count,LOCKED
+BASE-03,Main figures,5,manuscript/PIEZO1_OA_Main_Manuscript_V14_Final_SOP_Review.docx,embedded figure count,LOCKED
+BASE-04,Supplementary figures,15,manuscript/PIEZO1_OA_Supplementary_Materials_V12_Final_SOP_Review.docx,Figure S1-S15,LOCKED
+NUM-01,GSE51588 disease main effect,effect=-0.1087938612; P=0.4994569813; FDR=0.6163728728,reference/results/07_DEG_disease_OAvsNormal.csv,PIEZO1 row,SOURCE_LOCKED
+NUM-02,GSE51588 disease-by-compartment interaction,P=0.147,reference/results/07_DEG_interaction.csv,PIEZO1 row,SOURCE_LOCKED
+NUM-03,Covariate-adjusted interaction,P=0.81,reference/results/54_covariate_sensitivity.csv,interaction adjusted row,SOURCE_LOCKED
+NUM-04,Donor-within Q1-Q4,"mean=0.123167; median=0.141223; paired-t P=0.0133911; Wilcoxon V=49, P=0.0323129",reference/metadata/03_AxisDonor_Q1Q4.csv,scripts/71_v10_controlled_validations.R; asymptotic Wilcoxon with continuity correction,SOURCE_LOCKED
+NUM-05,Fully nested state-transfer LODO,BA=0.594681; macro-F1=0.553806; null95=0.171527; permutation P=0.000999,reference/metadata/04_Nested_LODO_QC.csv,"top-100 markers reselected inside every fold; 1,000 complete-pipeline donor-preserving permutations",PASS
+NUM-06,High-recall-state symmetric decomposition,"total deltas=-0.0469,-0.1382,-0.0694; within=+0.0036,-0.1013,-0.0321",reference/metadata/05_HighRecall_State_Sensitivity.csv,"retained FC, HomC, ProC and preHTC; no reassignment; proportions renormalized",PASS_WITH_DOWNGRADE
+NUM-07,Overall-OA IVW weight concentration,84.7%,reference/results/50_mr_ivw_weights.csv,rs56158123,SOURCE_LOCKED
+NUM-08,Colocalization PP.H4,outcome-specific,reference/results/41_P0_coloc_PPH3_report.csv,PP.H4 column,SOURCE_LOCKED
+NUM-09,MR minimum detectable effect,outcome-specific,reference/results/50_mr_power.csv; reference/results/50_mr_power_scale_sensitivity.csv,prespecified variance model,SOURCE_LOCKED

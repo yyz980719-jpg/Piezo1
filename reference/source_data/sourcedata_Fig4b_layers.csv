@@ -1,0 +1,51 @@
+dataset,layer,quantity,delta,family
+GSE51588 bone (LT - MT),L0_raw_sum1,HomC minus preHTC contrast,0.0968404890040879,Raw
+GSE51588 bone (LT - MT),L0_raw_sum1,HomC alone,0.0355965489733497,Raw
+GSE57218 cartilage (preserved - OA),L0_raw_sum1,HomC minus preHTC contrast,0.149487553977474,Raw
+GSE57218 cartilage (preserved - OA),L0_raw_sum1,HomC alone,0.0298354393775113,Raw
+GSE51588 bone (LT - MT),L1_CLR_add_1e-2,HomC minus preHTC contrast,0.634619411970942,CLR
+GSE51588 bone (LT - MT),L1_CLR_add_1e-2,HomC alone,0.176780742698809,CLR
+GSE57218 cartilage (preserved - OA),L1_CLR_add_1e-2,HomC minus preHTC contrast,1.03385933073889,CLR
+GSE57218 cartilage (preserved - OA),L1_CLR_add_1e-2,HomC alone,0.17704518024593,CLR
+GSE51588 bone (LT - MT),L1_CLR_add_1e-3,HomC minus preHTC contrast,0.679174285754825,CLR
+GSE51588 bone (LT - MT),L1_CLR_add_1e-3,HomC alone,0.159882153602008,CLR
+GSE57218 cartilage (preserved - OA),L1_CLR_add_1e-3,HomC minus preHTC contrast,1.18514582824567,CLR
+GSE57218 cartilage (preserved - OA),L1_CLR_add_1e-3,HomC alone,0.181229355826828,CLR
+GSE51588 bone (LT - MT),L1_CLR_msr_0.5min,HomC minus preHTC contrast,0.68456558232695,CLR
+GSE51588 bone (LT - MT),L1_CLR_msr_0.5min,HomC alone,0.18040894769839,CLR
+GSE57218 cartilage (preserved - OA),L1_CLR_msr_0.5min,HomC minus preHTC contrast,1.34393024868092,CLR
+GSE57218 cartilage (preserved - OA),L1_CLR_msr_0.5min,HomC alone,0.193089733157405,CLR
+GSE51588 bone (LT - MT),L2_ALR_ref_EC,HomC minus preHTC contrast,0.68456558232695,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_EC,HomC alone,0.103235757554136,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_EC,HomC minus preHTC contrast,1.34393024868091,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_EC,HomC alone,-0.457822367058198,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_FC,HomC minus preHTC contrast,0.68456558232695,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_FC,HomC alone,0.1319015583268,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_FC,HomC minus preHTC contrast,1.34393024868091,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_FC,HomC alone,0.107443069346168,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_HomC,HomC minus preHTC contrast,0.68456558232695,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_HomC,HomC minus preHTC contrast,1.34393024868091,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_HTC,HomC minus preHTC contrast,0.684565582326949,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_HTC,HomC alone,0.359498819000088,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_HTC,HomC minus preHTC contrast,1.34393024868091,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_HTC,HomC alone,-0.208570656535506,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_preHTC,HomC minus preHTC contrast,0.68456558232695,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_preHTC,HomC alone,0.68456558232695,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_preHTC,HomC minus preHTC contrast,1.34393024868091,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_preHTC,HomC alone,1.34393024868091,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_ProC,HomC minus preHTC contrast,0.68456558232695,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_ProC,HomC alone,0.462530997479997,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_ProC,HomC minus preHTC contrast,1.34393024868091,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_ProC,HomC alone,0.585322009674916,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_RegC,HomC minus preHTC contrast,0.684565582326946,ALR
+GSE51588 bone (LT - MT),L2_ALR_ref_RegC,HomC alone,-0.478870080799244,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_RegC,HomC minus preHTC contrast,1.34393024868091,ALR
+GSE57218 cartilage (preserved - OA),L2_ALR_ref_RegC,HomC alone,-0.0186741720064585,ALR
+GSE51588 bone (LT - MT),L3_logratio_HomC_over_preHTC,HomC minus preHTC contrast,0.68456558232695,Pairwise
+GSE57218 cartilage (preserved - OA),L3_logratio_HomC_over_preHTC,HomC minus preHTC contrast,1.34393024868091,Pairwise
+GSE51588 bone (LT - MT),L4_independent_gs_score,HomC minus preHTC contrast,0.355372613495074,GS score
+GSE51588 bone (LT - MT),L4_independent_gs_score,HomC minus preHTC contrast,0.355372613495073,GS score
+GSE51588 bone (LT - MT),L4_independent_gs_score,HomC alone,0.0569846017675729,GS score
+GSE57218 cartilage (preserved - OA),L4_independent_gs_score,HomC minus preHTC contrast,0.550455728618095,GS score
+GSE57218 cartilage (preserved - OA),L4_independent_gs_score,HomC minus preHTC contrast,0.550455728618095,GS score
+GSE57218 cartilage (preserved - OA),L4_independent_gs_score,HomC alone,0.0891506399981831,GS score

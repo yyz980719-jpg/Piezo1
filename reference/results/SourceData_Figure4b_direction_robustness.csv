@@ -1,0 +1,21 @@
+dataset,quantity,family,status,label
+GSE51588 bone (LT - MT),HomC alone,ALR,Reference-dependent,5/6 +
+GSE51588 bone (LT - MT),HomC alone,CLR,Consistent +,3/3 +
+GSE51588 bone (LT - MT),HomC alone,GS score,Consistent +,1/1 +
+GSE51588 bone (LT - MT),HomC alone,Pairwise,Not applicable,N/A
+GSE51588 bone (LT - MT),HomC alone,Raw,Consistent +,1/1 +
+GSE51588 bone (LT - MT),HomC minus preHTC contrast,ALR,Consistent +,7/7 +
+GSE51588 bone (LT - MT),HomC minus preHTC contrast,CLR,Consistent +,3/3 +
+GSE51588 bone (LT - MT),HomC minus preHTC contrast,GS score,Consistent +,1/1 +
+GSE51588 bone (LT - MT),HomC minus preHTC contrast,Pairwise,Consistent +,1/1 +
+GSE51588 bone (LT - MT),HomC minus preHTC contrast,Raw,Consistent +,1/1 +
+GSE57218 cartilage (preserved - OA),HomC alone,ALR,Reference-dependent,3/6 +
+GSE57218 cartilage (preserved - OA),HomC alone,CLR,Consistent +,3/3 +
+GSE57218 cartilage (preserved - OA),HomC alone,GS score,Consistent +,1/1 +
+GSE57218 cartilage (preserved - OA),HomC alone,Pairwise,Not applicable,N/A
+GSE57218 cartilage (preserved - OA),HomC alone,Raw,Consistent +,1/1 +
+GSE57218 cartilage (preserved - OA),HomC minus preHTC contrast,ALR,Consistent +,7/7 +
+GSE57218 cartilage (preserved - OA),HomC minus preHTC contrast,CLR,Consistent +,3/3 +
+GSE57218 cartilage (preserved - OA),HomC minus preHTC contrast,GS score,Consistent +,1/1 +
+GSE57218 cartilage (preserved - OA),HomC minus preHTC contrast,Pairwise,Consistent +,1/1 +
+GSE57218 cartilage (preserved - OA),HomC minus preHTC contrast,Raw,Consistent +,1/1 +

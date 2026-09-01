@@ -1,0 +1,19 @@
+PIEZO1 OA reproducible repository v2.0.0
+Execution date: 2026-09-01
+
+PASS  transcriptomic pipeline: 10/10 scripts
+PASS  genetic pipeline: 6/6 scripts
+PASS  validation pipeline: 3/3 scripts
+PASS  figure pipeline: 8/8 scripts
+PASS  frozen-output comparison: 60/60 comparable CSV tables
+INFO  53_covariate_audit.csv is environment-dependent metadata availability and is reported, not identity-tested.
+
+The rerun used R 4.6.1 and Python 3.12.13. Public/controlled third-party raw
+inputs used for local verification are ignored by Git and are not redistributed
+in the release archive. Exact filenames, byte sizes, SHA-256 values, sources,
+and acquisition routes are recorded in data/input_manifest.tsv.
+
+One legacy export issue was corrected during the rerun: the old
+39_gse152805_perdonor.csv contained a three-value donor vector recycled across
+seven programme columns. Version 2.0.0 now keeps programme differences in that
+table and the valid donor-level PIEZO1 values in 39_gse152805_piezo1.csv.

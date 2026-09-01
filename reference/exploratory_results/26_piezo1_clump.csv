@@ -1,0 +1,9 @@
+﻿metric,value
+n_SNP_full,15
+n_SNP_after_1Mb_distance_clump,1
+IVW_beta_full,-0.011238
+IVW_se_full,0.024741
+IVW_P_full,0.6497
+IVW_beta_clumped,0.042271
+IVW_se_clumped,0.47023
+IVW_P_clumped,0.9284

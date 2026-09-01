@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "PIEZO1 expression across human osteoarthritis contexts: reproducible research compendium",
+  "version": "2.0.0",
+  "datePublished": "2026-09-01",
+  "description": "Reproducible R and Python workflows supporting a multi-dataset analysis of context-dependent PIEZO1 expression in human osteoarthritis.",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": ["R", "Python"],
+  "author": [{
+    "@type": "Person",
+    "givenName": "Yunze",
+    "familyName": "Yang",
+    "email": "631652214@qq.com",
+    "@id": "https://orcid.org/0009-0003-5907-7037",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine"
+    }
+  }],
+  "keywords": ["PIEZO1", "osteoarthritis", "transcriptomics", "Mendelian randomization", "reproducibility"],
+  "operatingSystem": ["Windows", "Linux", "macOS"]
+}
+

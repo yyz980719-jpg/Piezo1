@@ -1,0 +1,4 @@
+﻿outcome,n_instrument,ivw_beta,ivw_se,mde_beta_80pct,mde_OR_80pct,power_OR_1.10,power_OR_1.20,power_OR_1.50,power_OR_2.00
+"OA (overall, M13_ARTHROSIS)",5,0.01942,0.151,0.423,1.527,0.0967,0.2266,0.7658,0.9957
+Knee OA (gonarthrosis),5,-0.02062,0.13755,0.3854,1.47,0.1066,0.2634,0.8384,0.999
+Hip OA (coxarthrosis),5,-0.0216,0.0573,0.1605,1.174,0.3835,0.8891,1.0,1.0

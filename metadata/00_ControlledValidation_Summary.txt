@@ -1,0 +1,9 @@
+LODO balanced accuracy: 0.679970
+Permutation null 95th percentile: 0.194972
+LODO gate: PASS
+LODO macro-F1: 0.635461
+Maximum decomposition identity error: 4.16e-17
+Symmetric within-state components at 0% trim: D113=-0.014875; D116=-0.113331; D118=-0.036754
+Symmetric within-state shares at 0% trim: D113=28.7%; D116=77.2%; D118=50.5%
+Donor-within axis Q4-Q1 PIEZO1 mean difference: -0.123167
+Donor-level paired t P: 0.0133911; Wilcoxon P: 0.0323129

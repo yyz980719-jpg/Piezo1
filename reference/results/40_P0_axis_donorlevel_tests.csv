@@ -1,0 +1,8 @@
+test,statistic,n_unit,unit,P,effect
+one-sample t on donor rho,-3.92934888452262,10,donors,0.003461,mean rho = -0.137
+Fisher-z one-sample t,-3.91312974018248,10,donors,0.003548,mean z = -0.139
+Wilcoxon signed-rank (donor rho),2,10,donors,0.01083,median rho = -0.156
+sign test (rho<0),9,10,donors,0.02148,9/10 negative
+paired t Q1 vs Q4,3.12739257325012,10,donors,0.01217,mean diff = 0.1325
+Wilcoxon paired Q1 vs Q4,50,10,donors,0.02493,median diff = 0.1414
+cell-level Spearman (for comparison),-0.141636636852311,1464,cells,5.264e-08,rho = -0.142 (2.0% var)

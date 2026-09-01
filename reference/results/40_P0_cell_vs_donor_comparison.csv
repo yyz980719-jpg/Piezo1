@@ -1,0 +1,5 @@
+quantity,cell_level,donor_level
+PIEZO1 亚型差异 (7 亚型 omnibus),Kruskal-Wallis P = 3.94e-06 (n = 1464 细胞),"Friedman P = 0.929 (n = 8 供体, Kendall W = 0.03)"
+PIEZO1 vs 分化轴 (趋势),"rho = -0.142, P = 5.26e-08 (n = 1464 细胞)","供体 rho 均值 -0.137, 单样本 t P = 0.00346, 符号检验 9/10 P = 0.0215"
+Q1稳态 -> Q4肥大 差异,0.370 vs 0.236 (差 0.134),"配对 t 均值差 0.1325, P = 0.0122, 95%CI [0.037, 0.228] (n = 10)"
+HomC vs HTC,均值差 0.079,"配对均值差 0.0419, P = 0.491, dz = 0.23 (n = 10 供体)"

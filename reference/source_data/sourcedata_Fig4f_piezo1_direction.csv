@@ -1,0 +1,9 @@
+src,est,lo,hi,unit,n,tissue,ylab
+GSE104782,-0.137177714830775,-0.216152007849917,-0.0582034218116332,ρ with hypertrophic-minus-homeostatic axis,10 donors,Cartilage,"GSE104782  ·  ρ with hypertrophic-minus-homeostatic axis
+10 donors"
+GSE152805,-0.0904902487947689,,,lateral minus medial mean difference,3 donors,Cartilage,"GSE152805  ·  lateral minus medial mean difference
+3 donors"
+GSE57218,-0.253068052484848,-0.448539705698591,-0.0575963992711046,preserved minus OA-affected difference,33 donors,Cartilage,"GSE57218  ·  preserved minus OA-affected difference
+33 donors"
+GSE51588,0.5035281644,0.260878589061453,0.746177739738548,"lateral minus medial difference, OA donors",20 donors,Subchondral bone,"GSE51588  ·  lateral minus medial difference, OA donors
+20 donors"

@@ -1,0 +1,22 @@
+donor,programme,delta,dir
+113,EC,15.6968471828539,lateral higher
+116,EC,55.9303757430918,lateral higher
+118,EC,27.6917913499627,lateral higher
+113,FC,0.125831366967942,lateral higher
+116,FC,-62.5944339518257,medial higher
+118,FC,2.46171786234217,lateral higher
+113,HomC,23.771269855802,lateral higher
+116,HomC,60.0495099594852,lateral higher
+118,HomC,38.5185594192847,lateral higher
+113,HTC,17.0301985658199,lateral higher
+116,HTC,60.9344298426823,lateral higher
+118,HTC,35.9737837734862,lateral higher
+113,preHTC,-50.973111096721,medial higher
+116,preHTC,-89.4205253248607,medial higher
+118,preHTC,-87.9800058689922,medial higher
+113,ProC,-15.704966008968,medial higher
+116,ProC,-14.1879002232809,medial higher
+118,ProC,-24.1221622416101,medial higher
+113,RegC,10.0539301342452,lateral higher
+116,RegC,-10.7114560452921,medial higher
+118,RegC,7.45631570552661,lateral higher

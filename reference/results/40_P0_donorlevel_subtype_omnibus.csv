@@ -1,0 +1,2 @@
+test,statistic,df,P,n_donors,n_subtypes,kendall_W
+Friedman,1.35714285714286,5,0.9289,8,6,0.034

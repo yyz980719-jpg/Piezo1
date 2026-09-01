@@ -1,0 +1,23 @@
+group	required	local_path	bytes	sha256	source	identifier_or_access_route	notes
+bundled	yes	data/GPL13497_probe2symbol.tsv	629274	8292785bb551df93d15fc3e5075a3a4676d45e0f889618811509B08B04A2F21D	NCBI GEO	GPL13497	Derived two-column probe-to-symbol map bundled with provenance
+transcriptomic	yes	data/GSE51588_series_matrix.txt.gz	8289885	4e812d45ef9af37ca1b8e81bbca5c8a99fb534c0be79b4b05c8348974208b3cd	NCBI GEO	GSE51588	Public series matrix
+transcriptomic	yes	data/GSE55235_series_matrix.txt.gz	1374133	a9d2ad2cc673a5a06aa7ea95c4eb830488505e2ec99f78422af5eb1a1047b57d	NCBI GEO	GSE55235	Public series matrix
+transcriptomic	yes	data/GSE57218_series_matrix.txt.gz	18676256	d2c631f8b85fa6a65cf134992ed13181f1e63702a602a1c696596bcd38b0ab9a	NCBI GEO	GSE57218	Public series matrix
+transcriptomic	yes	data/GSE82107_series_matrix.txt.gz	1903434	8c941388fd6c2413aaaff03b9a0dbff0ec7dd47066bf48433326dd2c34cbe8c1	NCBI GEO	GSE82107	Public series matrix
+transcriptomic	yes	data/GSE46750_series_matrix.txt.gz	4766458	3aeea092b44f4c4be8e0187ca29cde419177dbdccfdce30a546fa0abaf5ce82b	NCBI GEO	GSE46750	Public series matrix
+transcriptomic	yes	data/GPL6947.annot.gz	6956785	244c4ef6394abd8c87309318f3f27e9e63c45d2d1c3e89303818f1f63a290824	NCBI GEO	GPL6947	Public platform annotation
+transcriptomic	yes	data/GSE104782_series_matrix.txt.gz	3349	4adeca7d77aff97a3c97ff80604d3333674899592067a821b0ac63ba607b2c61	NCBI GEO	GSE104782	Metadata-only series matrix used by covariate audit
+transcriptomic	yes	data/scrna/GSE104782_allcells_UMI_count.txt.gz	10227738	544d03f5165cb1c50a413a120110494c2076dd775ae237c916827118023b014f	NCBI GEO	GSE104782	Processed UMI count matrix
+transcriptomic	yes	data/scrna/GSE104782_Table_Cell_quality_information_and_clustering_information.xlsx	112348	2e0b31c40637e1dab36553a1f3bb9abc93d97acf416e49e379a9be623483098c	NCBI GEO	GSE104782	Published cell annotation workbook
+transcriptomic	optional	data/GSE152805_RAW.tar	329338880	e18e61e948b6a36d62c0da8f7a6acc9e92cf310eeef8dc1d47324fde3833e299	NCBI GEO	GSE152805	Public processed MTX/TSV archive; downloader extracts to data/GSE152805_raw
+transcriptomic	yes	data/GSE152805_raw/*.matrix.mtx.gz			NCBI GEO	GSE152805	At least six paired-cartilage matrices required
+transcriptomic	yes	data/GSE152805_raw/*.barcodes.tsv.gz			NCBI GEO	GSE152805	At least six paired-cartilage barcode files required
+transcriptomic	yes	data/GSE152805_raw/*.genes.tsv.gz			NCBI GEO	GSE152805	At least six paired-cartilage gene files required
+genetic	yes	data/mr/eqtlgen_PIEZO1_cis.tsv	144325	f7b59f41275e564242efd36054a8131e37bbf11769de23e50d28ae4a2c014246	eQTLGen Phase I	PIEZO1 cis subset	Obtain under eQTLGen source terms
+genetic	yes	data/mr/eqtlgen_PIEZO1_cis_full.tsv	1125070	0dc70621dec285c985fab6a0ccc3bd36142dcfd4db63a753443bb285b004e595	eQTLGen Phase I	PIEZO1 +/-1 Mb cis region	Obtain under eQTLGen source terms
+genetic	yes	data/mr/eqtlgen_AF_instruments.tsv	437	8b07c2bebc46305e5961c26faf5858c92c1dfdae6edc5a5faa9850ccebb9ea25	eQTLGen Phase I	Six candidate instruments	Derived instrument-frequency subset
+genetic	yes	data/mr/eqtlgen_AF.txt.gz	240045342	edffd43094598d08db6b423f7b3ce68b000a02f0b993ea4cfcf1f61a8175485d	eQTLGen Phase I	Allele-frequency resource	Obtain under eQTLGen source terms
+genetic	yes	data/mr/finngen_M13_ARTHROSIS_chr16region.tsv	3833152	bc21df93c50f2785af62f008667ab30df4b28246f5b0e19da04d5f72b85cb26d	FinnGen R12	M13_ARTHROSIS chromosome-16 PIEZO1 region	Obtain through FinnGen access route and extract region
+genetic	yes	data/mr/finngen_M13_ARTHROSIS_KNEE_chr16region.tsv	3826824	272eefdc5f77dce5229a129ef22acd46646fa1eca2614d7fa855acab1a9c0482	FinnGen R12	M13_ARTHROSIS_KNEE chromosome-16 PIEZO1 region	Obtain through FinnGen access route and extract region
+genetic	yes	data/mr/finngen_M13_ARTHTROSIS_COX_chr16region.tsv	3817281	fc218fb9977a676fd68ab1a1631e7df58520b2ee054f684dcb43eb620f436703	FinnGen R12	M13_ARTHTROSIS_COX chromosome-16 PIEZO1 region	Obtain through FinnGen access route and extract region
+genetic	optional	data/mr/gtex_v8_wholeblood_PIEZO1.json	2096273	bb2dafcc9fa44741794828154674a904be609d5b5fc77f52d4fc26a2101172c7	GTEx Portal API	GTEx v8 Whole Blood PIEZO1	Created automatically if absent and network is available

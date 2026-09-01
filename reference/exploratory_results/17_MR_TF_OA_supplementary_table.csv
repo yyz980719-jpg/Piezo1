@@ -1,0 +1,25 @@
+﻿TF,Outcome,Best_GTEx_tissue,Lead_cis_eQTL_SNP,Lead_eQTL_F,Lead_n_SNP,Lead_IVW_beta_logOR,Lead_95pct_CI,Lead_P,Multi_n_SNP,Multi_IVW_beta_logOR,Multi_95pct_CI,Multi_P,Notes
+TCF7L1,Overall OA,Artery_Aorta,rs883650,130.0,1,0.0271,"[-0.0054, 0.06]",0.103,55,0.0358,"[0.03, 0.042]",<0.001,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+TCF7L1,Knee OA,Artery_Aorta,rs883650,130.0,1,0.0414,"[0.0017, 0.081]",0.0407,55,0.0434,"[0.036, 0.05]",<0.001,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+TCF7L1,Hip OA,Artery_Aorta,rs883650,130.0,1,-0.00804,"[-0.06, 0.044]",0.762,55,0.00597,"[-0.0031, 0.015]",0.199,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+GATAD2A,Overall OA,Whole_Blood,rs4808967,131.4,1,-0.0225,"[-0.084, 0.039]",0.474,361,-0.0184,"[-0.023, -0.014]",<0.001,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+GATAD2A,Knee OA,Whole_Blood,rs4808967,131.4,1,-0.0235,"[-0.098, 0.051]",0.538,361,-0.027,"[-0.032, -0.022]",<0.001,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+GATAD2A,Hip OA,Whole_Blood,rs4808967,131.4,1,-0.0766,"[-0.18, 0.023]",0.133,361,-0.0819,"[-0.089, -0.075]",<0.001,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+PRDM16,Overall OA,—,—,,—,—,—,—,—,—,—,—,No significant GTEx cis-eQTL (p<1e-5) in queried tissues; not instrumented
+PRDM16,Knee OA,—,—,,—,—,—,—,—,—,—,—,No significant GTEx cis-eQTL (p<1e-5) in queried tissues; not instrumented
+PRDM16,Hip OA,—,—,,—,—,—,—,—,—,—,—,No significant GTEx cis-eQTL (p<1e-5) in queried tissues; not instrumented
+BCL6,Overall OA,Skin_Not_Sun_Exposed_Suprapubic,rs115132457,20.2,1,0.0332,"[-0.087, 0.15]",0.587,2,0.0447,"[-0.038, 0.13]",0.29,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+BCL6,Knee OA,Skin_Not_Sun_Exposed_Suprapubic,rs115132457,20.2,1,0.0661,"[-0.082, 0.21]",0.381,2,0.076,"[-0.026, 0.18]",0.144,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+BCL6,Hip OA,Skin_Not_Sun_Exposed_Suprapubic,rs115132457,20.2,1,-0.00911,"[-0.2, 0.18]",0.926,2,0.0101,"[-0.12, 0.14]",0.88,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+ZNF92,Overall OA,—,—,,—,—,—,—,—,—,—,—,No significant GTEx cis-eQTL (p<1e-5) in queried tissues; not instrumented
+ZNF92,Knee OA,—,—,,—,—,—,—,—,—,—,—,No significant GTEx cis-eQTL (p<1e-5) in queried tissues; not instrumented
+ZNF92,Hip OA,—,—,,—,—,—,—,—,—,—,—,No significant GTEx cis-eQTL (p<1e-5) in queried tissues; not instrumented
+ZNF853,Overall OA,Muscle_Skeletal,rs147888555,30.3,1,0.0395,"[-0.16, 0.23]",0.692,4,0.0255,"[-0.077, 0.13]",0.625,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+ZNF853,Knee OA,Muscle_Skeletal,rs147888555,30.3,1,-0.0773,"[-0.31, 0.16]",0.521,4,-0.063,"[-0.19, 0.061]",0.318,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+ZNF853,Hip OA,Muscle_Skeletal,rs147888555,30.3,1,0.157,"[-0.16, 0.47]",0.328,4,0.0909,"[-0.073, 0.25]",0.276,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+PKNOX2,Overall OA,Skin_Not_Sun_Exposed_Suprapubic,rs7116245,35.4,1,0.00746,"[-0.036, 0.051]",0.735,10,0.00765,"[-0.0061, 0.021]",0.274,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+PKNOX2,Knee OA,Skin_Not_Sun_Exposed_Suprapubic,rs7116245,35.4,1,0.0335,"[-0.02, 0.087]",0.219,10,0.0341,"[0.017, 0.051]",<0.001,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+PKNOX2,Hip OA,Skin_Not_Sun_Exposed_Suprapubic,rs7116245,35.4,1,0.0296,"[-0.041, 0.1]",0.408,10,0.0299,"[0.0077, 0.052]",0.00845,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+ATF6,Overall OA,Adipose_Subcutaneous,rs12048680,69.8,1,-0.0153,"[-0.094, 0.064]",0.704,210,-0.00374,"[-0.011, 0.0031]",0.283,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+ATF6,Knee OA,Adipose_Subcutaneous,rs12048680,69.8,1,-0.0201,"[-0.12, 0.076]",0.681,210,-0.00435,"[-0.013, 0.004]",0.305,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)
+ATF6,Hip OA,Adipose_Subcutaneous,rs12048680,69.8,1,0.084,"[-0.045, 0.21]",0.201,210,0.0387,"[0.028, 0.05]",<0.001,IVW=lead SNP Wald ratio; multi-SNP set LD clumping not performed (p-values inflated)

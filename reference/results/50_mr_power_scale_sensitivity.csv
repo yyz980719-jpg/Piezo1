@@ -1,0 +1,16 @@
+c_scale,outcome,mde_OR
+0.6,"OA (overall, M13_ARTHROSIS)",2.06252122031005
+0.6,Knee OA (gonarthrosis),1.98236325314132
+0.6,Hip OA (coxarthrosis),1.30634590440577
+0.8,"OA (overall, M13_ARTHROSIS)",1.7210711280374
+0.8,Knee OA (gonarthrosis),1.67065751647002
+0.8,Hip OA (coxarthrosis),1.22192244152027
+1,"OA (overall, M13_ARTHROSIS)",1.54397070300577
+1,Knee OA (gonarthrosis),1.50768267104694
+1,Hip OA (coxarthrosis),1.17391029902635
+1.25,"OA (overall, M13_ARTHROSIS)",1.41550446701148
+1.25,Knee OA (gonarthrosis),1.38882637183698
+1.25,Hip OA (coxarthrosis),1.13686247110917
+1.67,"OA (overall, M13_ARTHROSIS)",1.29705238958851
+1.67,Knee OA (gonarthrosis),1.27871105857278
+1.67,Hip OA (coxarthrosis),1.10077245260526

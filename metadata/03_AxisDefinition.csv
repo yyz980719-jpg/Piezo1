@@ -1,0 +1,12 @@
+item,value,detail
+homeostatic_markers_requested,COL2A1; SOX9; ACAN; CHAD; HAPLN1,full prespecified set before intersection with the expression matrix
+homeostatic_markers,COL2A1; SOX9; ACAN; CHAD; HAPLN1,higher values decrease the axis score
+homeostatic_alias_resolution,CRTL1 -> HAPLN1,CRTL1 is a historical alias of HAPLN1 and is not an additional marker
+hypertrophic_markers_requested,COL10A1; RUNX2; IBSP; ALPL; MMP13; SPP1; POSTN,full prespecified set before intersection with the expression matrix
+hypertrophic_markers,COL10A1; RUNX2; IBSP; ALPL; MMP13; SPP1; POSTN,higher values increase the axis score
+hypertrophic_markers_absent,"",requested genes absent from the normalized reference matrix
+PIEZO1_in_marker_set,FALSE,target-gene leave-out is unnecessary because PIEZO1 is absent
+scaling,cell-level gene-set mean; each set standardized across all reference cells,axis = z(mean hypertrophic markers) - z(mean homeostatic markers)
+quartiles,donor-within rank quartiles,Q1 <=25th percentile; Q4 >75th percentile within each donor
+cell_level_spearman,rho=-0.141637; P=5.2637e-08,descriptive cell-level association
+donor_paired_Q4_minus_Q1,mean=-0.123167; paired t P=0.0133911; Wilcoxon P=0.0323129,n=10 donors

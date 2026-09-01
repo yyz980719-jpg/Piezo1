@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research compendium, please cite the archived release and the associated manuscript."
+title: "PIEZO1 expression across human osteoarthritis contexts: reproducible research compendium"
+type: software
+version: 2.0.0
+date-released: 2026-09-01
+authors:
+  - family-names: "Yang"
+    given-names: "Yunze"
+    orcid: "https://orcid.org/0009-0003-5907-7037"
+    affiliation: "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine"
+    email: "631652214@qq.com"
+license: MIT
+keywords:
+  - PIEZO1
+  - osteoarthritis
+  - single-cell RNA sequencing
+  - transcriptomics
+  - compositional data analysis
+  - Mendelian randomization
+  - reproducible research
+

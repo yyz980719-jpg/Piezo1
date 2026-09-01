@@ -1,0 +1,5 @@
+dataset,context,direction,statement
+GSE104782,Across-state association,Negative,PIEZO1 decreases toward hypertrophic pole; 9/10 donor correlations negative
+GSE152805,Cartilage compartment,Negative,Lateral < medial PIEZO1; 3/3 donors
+GSE57218,Cartilage region,Negative,Preserved < OA-affected PIEZO1; 33 paired donors
+GSE51588,Subchondral-bone compartment,Positive,Lateral > medial PIEZO1; 20 OA paired donors

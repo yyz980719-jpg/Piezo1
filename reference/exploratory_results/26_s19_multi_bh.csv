@@ -1,0 +1,25 @@
+﻿TF,OA_definition,n_SNP_unclumped,Multi_IVW_beta_logOR,Multi_95CI,Multi_P,BH_q_24tests,Lead_P,Verdict
+TCF7L1,Overall OA,55,0.01011,"[0.004499, 0.01573]",0.000414,0.003906,0.103,significant but UNCLUMPED -> hypothesis-generating only
+TCF7L1,Knee OA,55,0.01221,"[0.00541, 0.01902]",0.000434,0.003906,0.0407,significant but UNCLUMPED -> hypothesis-generating only
+TCF7L1,Hip OA,55,0.0009969,"[-0.008068, 0.01006]",0.829,0.9263,0.762,not significant
+GATAD2A,Overall OA,361,-0.001917,"[-0.006244, 0.002411]",0.385,0.6936,0.474,not significant
+GATAD2A,Knee OA,361,-0.002385,"[-0.007628, 0.002859]",0.373,0.6936,0.538,not significant
+GATAD2A,Hip OA,361,-0.00698,"[-0.01394, -1.5e-05]",0.0495,0.2228,0.133,not significant
+PRDM16,Overall OA,—,NA,NA,NA (no cis-eQTL instruments),NA,—,not significant
+PRDM16,Knee OA,—,NA,NA,NA (no cis-eQTL instruments),NA,—,not significant
+PRDM16,Hip OA,—,NA,NA,NA (no cis-eQTL instruments),NA,—,not significant
+BCL6,Overall OA,2,-0.01918,"[-0.1007, 0.06229]",0.644,0.8952,0.587,not significant
+BCL6,Knee OA,2,-0.03257,"[-0.1317, 0.06657]",0.52,0.8503,0.381,not significant
+BCL6,Hip OA,2,-0.004331,"[-0.1353, 0.1266]",0.948,0.9483,0.926,not significant
+ZNF92,Overall OA,—,NA,NA,NA (no cis-eQTL instruments),NA,—,not significant
+ZNF92,Knee OA,—,NA,NA,NA (no cis-eQTL instruments),NA,—,not significant
+ZNF92,Hip OA,—,NA,NA,NA (no cis-eQTL instruments),NA,—,not significant
+ZNF853,Overall OA,4,-0.008179,"[-0.11, 0.09363]",0.875,0.9263,0.692,not significant
+ZNF853,Knee OA,4,0.02033,"[-0.1027, 0.1433]",0.746,0.8952,0.521,not significant
+ZNF853,Hip OA,4,-0.02946,"[-0.1915, 0.1326]",0.722,0.8952,0.328,not significant
+PKNOX2,Overall OA,10,-0.002742,"[-0.01643, 0.01095]",0.695,0.8952,0.735,not significant
+PKNOX2,Knee OA,10,-0.01224,"[-0.02886, 0.00437]",0.149,0.3822,0.219,not significant
+PKNOX2,Hip OA,10,-0.01074,"[-0.0328, 0.01133]",0.34,0.6936,0.408,not significant
+ATF6,Overall OA,210,-0.005348,"[-0.01215, 0.001449]",0.123,0.3691,0.704,not significant
+ATF6,Knee OA,210,-0.008273,"[-0.01652, -2.933e-05]",0.0492,0.2228,0.681,not significant
+ATF6,Hip OA,210,0.009087,"[-0.001845, 0.02002]",0.103,0.3691,0.201,not significant

@@ -1,0 +1,12 @@
+Programme-score unit audit
+==========================
+Frozen implementation: W = t(query_gene_z) %*% reference_centroid_gene_z.
+Each cell-state score is therefore an unconstrained similarity-projection score.
+A donor-level compartment contrast is the difference between mean cell projection scores.
+The values are arbitrary but reproducible score units; they are neither proportions nor percentage points.
+
+Independent two-row manual dot-product test:
+query z = [1.25, -0.50]
+centroid z = [0.80, 1.40]
+terms = [1.00, -0.70]
+manual sum = 0.30; crossprod = 0.30; PASS

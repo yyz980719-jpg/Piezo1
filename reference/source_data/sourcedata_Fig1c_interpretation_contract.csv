@@ -1,0 +1,19 @@
+layer,can,cannot,y1,y0
+Paired joint compartments,"Compartment-associated regulation within OA joints,
+free of between-person confounding","A direct measurement of mechanical force, or proof
+that the contrast is OA specific",100,86.4
+Donor-aware chondrocyte states,"Association of PIEZO1 with the state continuum at
+the level of the donor","Cell-level independent replication, or that the
+state transition is causal",83.6,70
+Programme-score replication,"A reproducible programme-level contrast across three
+paired datasets","Inferred cell-type abundance: similarity weights are
+not proportions",67.2,53.6
+Within-state decomposition,"Separation of within-state change from compositional
+shift","Statistical replication: three donors support
+direction only",50.8,37.2
+Cross-tissue signature transfer,"Directional consistency of regional programmes
+across tissues","Equivalence of PIEZO1 direction between bone and
+cartilage",34.4,20.8
+Blood-expression Mendelian randomization,"Upper bounds on a systemic effect mediated by blood
+expression","Any local joint-tissue mechanism, or tissue-specific
+regulation",18,4.4

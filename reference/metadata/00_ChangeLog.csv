@@ -1,0 +1,23 @@
+﻿sop_step,location,change,authoritative_evidence
+P0-01,Main Figure 1; Supplementary Figure S1,Aligned displayed disease-main-effect P to 0.500,07_DEG_disease_OAvsNormal.csv
+P0-02,Methods; Table S5; abstract,"Aligned paired Wilcoxon V, median and P; stated asymptotic continuity correction",03_AxisDonor_Q1Q4.csv
+P0-03,Tables S1/S1A; Data S1,Corrected complete sample flow for GSE55235 and GSE82107,Local GEO series-matrix metadata
+P0-04,Methods; Results; Table S19; Figure S15,Replaced fixed-marker LODO with fully nested fold-specific marker selection and full-pipeline permutations,04_Nested_LODO_QC.csv
+P0-05,Abstract; Results; Discussion; Tables S2/S19/S21; Figure S15,Applied recall gate and downgraded the mechanism claim after donor 113 reversal,05_HighRecall_State_Sensitivity.csv
+P0-06,Main and Supplementary Methods,Removed unused maximum-score and normalized-entropy reporting,Text audit
+P1-07/P1-08,Objective; Results headings; Figure S12/S15 legends,Applied controlled terminology and claim downgrades,SOP wording gate
+P1-09,Data sources; references; Table S18,Added four original dataset papers and the formal 2026 joint-tissue eQTL paper,References 32-36
+P1-10,Tables S16/S17; local audit package,"Added exact versions, implementations, scripts and result filenames",scripts/ and results/
+P1-12,Abstract and metadata,Reduced abstract to 335 words and kept main text at 3905 words,DOCX metadata audit
+P0-11,Title page; declarations; supplement completion list,"Added author name, affiliation, correspondence e-mail, verified ORCID, single-author CRediT roles, no-funding and no-competing-interests statements; retained only unresolved repository and journal-specific blockers",Author attestation plus ORCID 0009-0003-5907-7037
+FINAL-01,Abstract; Methods; Figure S15,Relabelled recall<0.60 as a final-audit sensitivity; applied reference-internal validation and within-state expression wording,Author final seven-item instruction
+FINAL-02,Ethics statement; STROBE-MR checklist,Finalized Article 32 public-data exemption wording and completed the official STROBE-MR checklist,Official regulation and STROBE-MR template
+FINAL-03,Supplement; repository package,Removed internal completion notes and prepared a versioned local public-repository release package,Visual audit and local Git v1.1.0
+V11C-01,Main; Supplement; Figure 1; Figure 4,Replaced replication claims with cross-dataset concordance and separated reference-internal validation from external projection support,Corrected V11/V9 review SOP
+V11C-02,Supplementary Methods S5/S7; Tables S6/S13/S17,"Unified programme scoring to script 51; added matrix-source, doublet and ambient-RNA limitations",results/51_compositional_sensitivity_key.csv and local processing scripts
+V11C-03,Abstract; Results; Discussion; Figure 5; STROBE-MR,Applied donor-heterogeneous Kitagawa and whole-blood instrument-model boundaries,Corrected V11/V9 review SOP
+V13SOP-01,Supplementary Methods S4-S5,"Separated DEG preprocessing from programme preprocessing; recorded no additional quantile normalization and distinct probe aggregation rules",scripts/07_deg_paired.R and scripts/51_P1_compositional_sensitivity.R
+V13SOP-02,Main; Supplement; Figure 4 legend; result-layer labels,Renamed the closure-free L4 specification to unclosed gene-set score without changing values,results/51_compositional_sensitivity_full.csv
+V13SOP-03,Main Results 3.5,Downgraded the heading to donor-heterogeneous within-state and compositional contributions,Final V13/V11 SOP
+V13SOP-04,Main Methods 2.4; Supplement S3; Table S20; scripts,Resolved CRTL1 as a historical alias of canonical HAPLN1 and prevented duplicate-marker interpretation,NCBI Gene 1404 and HGNC:2380
+V13SOP-05,Main Results 3.3; Supplementary Table S5,"Reported the moderated omnibus test as F(6, 38.81)=3.252 with unchanged P and FDR",Unchanged limma model object reconstructed from scripts/40_P0_donorlevel_inference.R

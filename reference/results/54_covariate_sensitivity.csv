@@ -1,0 +1,8 @@
+model,contrast,adjustment,estimate,statistic,P,note
+M1 paired compartment (within OA),lateral - medial,none (paired within donor),0.5035281644,4.34328623361839,0.000350105476814771,"donor-invariant covariates (age, gender) are absorbed by the pairing"
+M2 disease x compartment interaction,delta(MT-LT): OA - Normal,"limma moderated, no covariate",-0.363415663600001,-1.49137544083143,0.149452088285816,primary interaction test reported in the manuscript (P=0.147)
+M2 disease x compartment interaction,delta(MT-LT): OA - Normal,limma moderated + age + gender,-0.115674318384418,-0.23816877321132,0.814058750564455,covariate-adjusted sensitivity (age and gender ARE deposited)
+M2 unmoderated sensitivity,delta(MT-LT): OA - Normal,none (Welch/Student t),-0.3634156636,2.05686453398486,0.0641887898950558,unmoderated sensitivity (P=0.064 in the manuscript)
+M2 unmoderated sensitivity,delta(MT-LT): OA - Normal,+ age + gender,-0.115674318384418,-0.23816877321132,0.814058750564455,covariate-adjusted sensitivity
+M3 disease main effect,OA - Normal (region adjusted),compartment,-0.1087938612,-0.677314534585743,0.501526920548162,null result
+M3 disease main effect,OA - Normal (region adjusted),compartment + age + gender,-0.0895950507237494,-0.332784555661526,0.740842344268217,covariate-adjusted sensitivity

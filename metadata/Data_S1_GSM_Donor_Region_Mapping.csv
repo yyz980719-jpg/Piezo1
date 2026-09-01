@@ -1,0 +1,190 @@
+dataset,GSM_or_sample_id,deposited_title,donor,region,analysis_status,reason
+GSE104782,processed-object donor label,OA1,OA1,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA2,OA2,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA3,OA3,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA4,OA4,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA5,OA5,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA6,OA6,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA7,OA7,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA8,OA8,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA9,OA9,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE104782,processed-object donor label,OA10,OA10,OA cartilage chondrocytes,Included,"Published processed 1,464-cell object; library-level GSM link unavailable locally"
+GSE152805,GSM4626763,SY_113,113,synovium,Excluded,Tissue mismatch: synovium
+GSE152805,GSM4626764,SY_116,116,synovium,Excluded,Tissue mismatch: synovium
+GSE152805,GSM4626765,SY_118,118,synovium,Excluded,Tissue mismatch: synovium
+GSE152805,GSM4626766,OA_oLT_113,113,lateral,Included,Paired OA cartilage state-transfer analysis
+GSE152805,GSM4626767,OA_oLT_116,116,lateral,Included,Paired OA cartilage state-transfer analysis
+GSE152805,GSM4626768,OA_oLT_118,118,lateral,Included,Paired OA cartilage state-transfer analysis
+GSE152805,GSM4626769,OA_MT_113,113,medial,Included,Paired OA cartilage state-transfer analysis
+GSE152805,GSM4626770,OA_MT_116,116,medial,Included,Paired OA cartilage state-transfer analysis
+GSE152805,GSM4626771,OA_MT_118,118,medial,Included,Paired OA cartilage state-transfer analysis
+GSE51588,GSM1248759,Normal-LT-5,Normal-5,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248760,Normal-LT-4,Normal-4,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248761,Normal-LT-3,Normal-3,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248762,Normal-LT-1,Normal-1,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248763,Normal-MT-2,Normal-2,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248764,Normal-MT-5,Normal-5,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248765,Normal-MT-4,Normal-4,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248766,Normal-MT-3,Normal-3,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248767,Normal-MT-1,Normal-1,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248768,Normal-LT-2,Normal-2,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248769,OA-LT-13,OA-13,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248770,OA-LT-12,OA-12,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248771,OA-LT-11,OA-11,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248772,OA-LT-10,OA-10,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248773,OA-LT-9,OA-9,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248774,OA-LT-8,OA-8,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248775,OA-LT-7,OA-7,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248776,OA-LT-20,OA-20,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248777,OA-LT-19,OA-19,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248778,OA-LT-18,OA-18,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248779,OA-LT-6,OA-6,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248780,OA-LT-5,OA-5,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248781,OA-LT-4,OA-4,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248782,OA-LT-3,OA-3,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248783,OA-LT-2,OA-2,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248784,OA-LT-1,OA-1,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248785,OA-LT-17,OA-17,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248786,OA-LT-16,OA-16,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248787,OA-LT-15,OA-15,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248788,OA-LT-14,OA-14,LT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248789,OA-MT-15,OA-15,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248790,OA-MT-14,OA-14,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248791,OA-MT-13,OA-13,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248792,OA-MT-12,OA-12,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248793,OA-MT-11,OA-11,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248794,OA-MT-10,OA-10,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248795,OA-MT-20,OA-20,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248796,OA-MT-9,OA-9,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248797,OA-MT-8,OA-8,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248798,OA-MT-7,OA-7,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248799,OA-MT-6,OA-6,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248800,OA-MT-5,OA-5,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248801,OA-MT-4,OA-4,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248802,OA-MT-3,OA-3,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248803,OA-MT-2,OA-2,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248804,OA-MT-1,OA-1,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248805,OA-MT-19,OA-19,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248806,OA-MT-18,OA-18,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248807,OA-MT-17,OA-17,MT,Included,Paired subchondral-bone analysis
+GSE51588,GSM1248808,OA-MT-16,OA-16,MT,Included,Paired subchondral-bone analysis
+GSE55235,GSM1332201,Synovial tisssue from healthy joint 1  (ND_1),ND_1,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332202,Synovial tisssue from healthy joint 2  (ND_2),ND_2,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332203,Synovial tisssue from healthy joint 3  (ND_3),ND_3,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332204,Synovial tisssue from healthy joint 4  (ND_4),ND_4,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332205,Synovial tisssue from healthy joint 5  (ND_5),ND_5,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332206,Synovial tisssue from healthy joint 6  (ND_6),ND_6,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332207,Synovial tisssue from healthy joint 7  (ND_7),ND_7,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332208,Synovial tisssue from healthy joint 8  (ND_8),ND_8,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332209,Synovial tisssue from healthy joint 9  (ND_9),ND_9,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332210,Synovial tisssue from healthy joint 10  (ND_10),ND_10,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332211,Synovial tissue from osteoarthritic joint 1  (OA_1),OA_1,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332212,Synovial tissue from osteoarthritic joint 2  (OA_2),OA_2,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332213,Synovial tissue from osteoarthritic joint 3  (OA_3),OA_3,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332214,Synovial tissue from osteoarthritic joint 4  (OA_4),OA_4,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332215,Synovial tissue from osteoarthritic joint 5  (OA_5),OA_5,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332216,Synovial tissue from osteoarthritic joint 6  (OA_6),OA_6,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332217,Synovial tissue from osteoarthritic joint 7  (OA_7),OA_7,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332218,Synovial tissue from osteoarthritic joint 8  (OA_8),OA_8,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332219,Synovial tissue from osteoarthritic joint 9  (OA_9),OA_9,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332220,Synovial tissue from osteoarthritic joint 10  (OA_10),OA_10,OA,Included,OA-versus-healthy synovial disease contrast
+GSE55235,GSM1332221,Synovial tissue from rheumatoid arthritis joint 1  (RA_1),RA_1,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332222,Synovial tissue from rheumatoid arthritis joint 2  (RA_2),RA_2,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332223,Synovial tissue from rheumatoid arthritis joint 3  (RA_3),RA_3,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332224,Synovial tissue from rheumatoid arthritis joint 4  (RA_4),RA_4,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332225,Synovial tissue from rheumatoid arthritis joint 5  (RA_5),RA_5,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332226,Synovial tissue from rheumatoid arthritis joint 6  (RA_6),RA_6,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332227,Synovial tissue from rheumatoid arthritis joint 7  (RA_7),RA_7,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332228,Synovial tissue from rheumatoid arthritis joint 8  (RA_8),RA_8,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332229,Synovial tissue from rheumatoid arthritis joint 9  (RA_9),RA_9,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE55235,GSM1332230,Synovial tissue from rheumatoid arthritis joint 10  (RA_10),RA_10,RA,Excluded,Rheumatoid-arthritis comparator outside OA-versus-healthy analysis
+GSE57218,GSM1380887,cartilage_RAAK_1_Healthy,RAAK-1,Healthy,Excluded,Healthy sample outside paired replication contrast
+GSE57218,GSM1380888,cartilage_RAAK_2_Healthy,RAAK-2,Healthy,Excluded,Healthy sample outside paired replication contrast
+GSE57218,GSM1380889,cartilage_RAAK_3_OA,RAAK-3,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380890,cartilage_RAAK_3_Preserved,RAAK-3,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380891,cartilage_RAAK_4_OA,RAAK-4,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380892,cartilage_RAAK_4_Preserved,RAAK-4,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380893,cartilage_RAAK_5_OA,RAAK-5,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380894,cartilage_RAAK_5_Preserved,RAAK-5,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380895,cartilage_RAAK_6_OA,RAAK-6,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380896,cartilage_RAAK_6_Preserved,RAAK-6,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380897,cartilage_RAAK_7_OA,RAAK-7,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380898,cartilage_RAAK_7_Preserved,RAAK-7,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380899,cartilage_RAAK_8_OA,RAAK-8,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380900,cartilage_RAAK_8_Preserved,RAAK-8,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380901,cartilage_RAAK_9_OA,RAAK-9,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380902,cartilage_RAAK_9_Preserved,RAAK-9,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380903,cartilage_RAAK_10_OA,RAAK-10,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380904,cartilage_RAAK_10_Preserved,RAAK-10,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380905,cartilage_RAAK_11_OA,RAAK-11,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380906,cartilage_RAAK_11_Preserved,RAAK-11,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380907,cartilage_RAAK_12_OA,RAAK-12,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380908,cartilage_RAAK_12_Preserved,RAAK-12,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380909,cartilage_RAAK_13_OA,RAAK-13,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380910,cartilage_RAAK_13_Preserved,RAAK-13,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380911,cartilage_RAAK_14_OA,RAAK-14,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380912,cartilage_RAAK_14_Preserved,RAAK-14,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380913,cartilage_RAAK_15_OA,RAAK-15,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380914,cartilage_RAAK_15_Preserved,RAAK-15,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380915,cartilage_RAAK_16_OA,RAAK-16,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380916,cartilage_RAAK_16_Preserved,RAAK-16,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380917,cartilage_RAAK_17_Healthy,RAAK-17,Healthy,Excluded,Healthy sample outside paired replication contrast
+GSE57218,GSM1380918,cartilage_RAAK_18_OA,RAAK-18,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380919,cartilage_RAAK_18_Preserved,RAAK-18,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380920,cartilage_RAAK_19_OA,RAAK-19,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380921,cartilage_RAAK_19_Preserved,RAAK-19,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380922,cartilage_RAAK_20_OA,RAAK-20,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380923,cartilage_RAAK_20_Preserved,RAAK-20,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380924,cartilage_RAAK_21_OA,RAAK-21,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380925,cartilage_RAAK_21_Preserved,RAAK-21,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380926,cartilage_RAAK_22_OA,RAAK-22,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380927,cartilage_RAAK_22_Preserved,RAAK-22,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380928,cartilage_RAAK_23_OA,RAAK-23,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380929,cartilage_RAAK_23_Preserved,RAAK-23,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380930,cartilage_RAAK_24_OA,RAAK-24,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380931,cartilage_RAAK_24_Preserved,RAAK-24,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380932,cartilage_RAAK_25_OA,RAAK-25,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380933,cartilage_RAAK_25_Preserved,RAAK-25,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380934,cartilage_RAAK_26_OA,RAAK-26,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380935,cartilage_RAAK_26_Preserved,RAAK-26,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380936,cartilage_RAAK_27_OA,RAAK-27,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380937,cartilage_RAAK_27_Preserved,RAAK-27,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380938,cartilage_RAAK_28_OA,RAAK-28,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380939,cartilage_RAAK_28_Preserved,RAAK-28,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380940,cartilage_RAAK_29_OA,RAAK-29,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380941,cartilage_RAAK_29_Preserved,RAAK-29,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380942,cartilage_RAAK_30_OA,RAAK-30,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380943,cartilage_RAAK_30_Preserved,RAAK-30,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380944,cartilage_RAAK_31_OA,RAAK-31,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380945,cartilage_RAAK_31_Preserved,RAAK-31,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380946,cartilage_RAAK_32_OA,RAAK-32,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380947,cartilage_RAAK_32_Preserved,RAAK-32,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380948,cartilage_RAAK_33_OA,RAAK-33,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380949,cartilage_RAAK_33_Preserved,RAAK-33,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380950,cartilage_RAAK_34_OA,RAAK-34,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380951,cartilage_RAAK_34_Preserved,RAAK-34,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380952,cartilage_RAAK_35_OA,RAAK-35,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380953,cartilage_RAAK_35_Preserved,RAAK-35,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380954,cartilage_RAAK_36_OA,RAAK-36,OA,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380955,cartilage_RAAK_36_Preserved,RAAK-36,Preserved,Included,Paired preserved/OA-affected analysis
+GSE57218,GSM1380956,cartilage_RAAK_37_Healthy,RAAK-37,Healthy,Excluded,Healthy sample outside paired replication contrast
+GSE57218,GSM1380957,cartilage_RAAK_38_Healthy,RAAK-38,Healthy,Excluded,Healthy sample outside paired replication contrast
+GSE57218,GSM1380958,cartilage_RAAK_39_Healthy,RAAK-39,Healthy,Excluded,Healthy sample outside paired replication contrast
+GSE57218,GSM1380959,cartilage_RAAK_40_Healthy,RAAK-40,Healthy,Excluded,Healthy sample outside paired replication contrast
+GSE82107,GSM2183532,HC-1,HC-1,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183533,HC-2,HC-2,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183534,HC-3,HC-3,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183535,HC-4,HC-4,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183536,HC-5,HC-5,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183537,HC-6,HC-6,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183538,HC-7,HC-7,healthy,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183539,OA-1,OA-1,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183540,OA-2,OA-2,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183541,OA-3,OA-3,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183542,OA-4,OA-4,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183543,OA-5,OA-5,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183544,OA-6,OA-6,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183545,OA-7,OA-7,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183546,OA-8,OA-8,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183547,OA-9,OA-9,OA,Included,OA-versus-healthy synovial disease contrast
+GSE82107,GSM2183548,OA-10,OA-10,OA,Included,OA-versus-healthy synovial disease contrast

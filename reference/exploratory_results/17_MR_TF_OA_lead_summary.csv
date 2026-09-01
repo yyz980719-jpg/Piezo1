@@ -1,0 +1,19 @@
+tf,outcome,tissue,n_snp,est,CI,p
+TCF7L1,ART,Artery_Aorta,1,0.0271,"[-0.0054, 0.06]",0.103
+GATAD2A,ART,Whole_Blood,1,-0.0225,"[-0.084, 0.039]",0.474
+BCL6,ART,Skin_Not_Sun_Exposed_Suprapubic,1,0.0332,"[-0.087, 0.15]",0.587
+ZNF853,ART,Muscle_Skeletal,1,0.0395,"[-0.16, 0.23]",0.692
+PKNOX2,ART,Skin_Not_Sun_Exposed_Suprapubic,1,0.00746,"[-0.036, 0.051]",0.735
+ATF6,ART,Adipose_Subcutaneous,1,-0.0153,"[-0.094, 0.064]",0.704
+TCF7L1,KNEE,Artery_Aorta,1,0.0414,"[0.0017, 0.081]",0.0407
+GATAD2A,KNEE,Whole_Blood,1,-0.0235,"[-0.098, 0.051]",0.538
+BCL6,KNEE,Skin_Not_Sun_Exposed_Suprapubic,1,0.0661,"[-0.082, 0.21]",0.381
+ZNF853,KNEE,Muscle_Skeletal,1,-0.0773,"[-0.31, 0.16]",0.521
+PKNOX2,KNEE,Skin_Not_Sun_Exposed_Suprapubic,1,0.0335,"[-0.02, 0.087]",0.219
+ATF6,KNEE,Adipose_Subcutaneous,1,-0.0201,"[-0.12, 0.076]",0.681
+TCF7L1,COX,Artery_Aorta,1,-0.00804,"[-0.06, 0.044]",0.762
+GATAD2A,COX,Whole_Blood,1,-0.0766,"[-0.18, 0.023]",0.133
+BCL6,COX,Skin_Not_Sun_Exposed_Suprapubic,1,-0.00911,"[-0.2, 0.18]",0.926
+ZNF853,COX,Muscle_Skeletal,1,0.157,"[-0.16, 0.47]",0.328
+PKNOX2,COX,Skin_Not_Sun_Exposed_Suprapubic,1,0.0296,"[-0.041, 0.1]",0.408
+ATF6,COX,Adipose_Subcutaneous,1,0.084,"[-0.045, 0.21]",0.201

@@ -1,0 +1,14 @@
+Description,direction,FoldEnrichment,Count,p.adjust,ratio
+regulation of lymphocyte activation,Higher laterally,2.03959632070078,117,7.11736495155043e-11,0.0490360435875943
+response to peptide hormone,Higher laterally,2.05282375135205,111,7.92012580819807e-11,0.0465213746856664
+fatty acid metabolic process,Higher laterally,2.10583962000559,104,7.92012580819807e-11,0.0435875943000838
+temperature homeostasis,Higher laterally,2.60516241650176,64,1.74670354104582e-10,0.0268231349538977
+"immune response-regulating cell surface
+receptor signaling pathway",Higher laterally,2.07495039088561,103,1.74670354104582e-10,0.0431684828164292
+response to insulin,Higher laterally,2.38212229742368,73,3.84617789539754e-10,0.0305951383067896
+skeletal system development,Higher medially,2.27130953511221,113,1.11240703324815e-14,0.0411058566751546
+extracellular matrix organization,Higher medially,2.41620366856751,98,1.11240703324815e-14,0.0356493270280102
+extracellular structure organization,Higher medially,2.40754344036476,98,1.11240703324815e-14,0.0356493270280102
+external encapsulating structure organization,Higher medially,2.39894507093489,98,1.11240703324815e-14,0.0356493270280102
+collagen fibril organization,Higher medially,3.69068472451521,35,1.67742666985571e-10,0.0127319025100036
+mitotic nuclear division,Higher medially,2.02452913968069,83,7.29946170621253e-08,0.0301927973808658

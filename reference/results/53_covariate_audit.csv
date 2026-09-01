@@ -1,0 +1,7 @@
+dataset,n_samples,fields_available,age,sex,bmi,kl_grade,batch,donor_id
+GSE51588,50,age; disease; sex; tissue,yes,yes,no,no,no,no (inferred from sample titles)
+GSE57218,73,age; disease; sex; tissue,yes,yes,no,no,no,no (inferred from sample titles)
+GSE55235,30,disease; tissue,no,no,no,no,no,no (inferred from sample titles)
+GSE82107,17,disease; tissue,no,no,no,no,no,no (inferred from sample titles)
+GSE46750,24,disease; donor_id,no,no,no,no,no,yes
+GSE104782,0,series matrix not available locally,unknown,unknown,unknown,unknown,unknown,unknown

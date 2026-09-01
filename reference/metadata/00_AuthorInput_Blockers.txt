@@ -1,0 +1,3 @@
+AUTHOR INPUT REQUIRED BEFORE SUBMISSION
+
+1. Public repository upload, immutable public release/commit URL, and repository DOI require authenticated GitHub/Zenodo access.

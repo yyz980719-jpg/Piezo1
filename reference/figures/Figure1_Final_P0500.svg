@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='518.74pt' height='481.89pt' viewBox='0 0 518.74 481.89'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk='>
+    <rect x='0.00' y='0.00' width='518.74' height='481.89' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk=)'>
+<rect x='0.00' y='0.00' width='518.74' height='481.89' style='stroke-width: 0.68; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNzIuNjR8NTE1LjI1fDE1LjcxfDQ1Ny4yNQ=='>
+    <rect x='72.64' y='15.71' width='442.61' height='441.55' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNzIuNjR8NTE1LjI1fDE1LjcxfDQ1Ny4yNQ==)'>
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk=)'>
+</g>
+<defs>
+  <clipPath id='cpMy40OXw1MTUuMjV8My40OXwyMDguMzA='>
+    <rect x='3.49' y='3.49' width='511.77' height='204.82' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMy40OXw1MTUuMjV8My40OXwyMDguMzA=)'>
+<rect x='3.49' y='3.49' width='511.77' height='204.82' style='stroke-width: 0.00; stroke: none;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk=)'>
+<rect x='92.76' y='38.69' width='402.37' height='20.79' style='stroke-width: 0.75; stroke: #2B2B2B; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F2F2;' />
+<rect x='92.76' y='66.04' width='402.37' height='20.79' style='stroke-width: 0.75; stroke: #2B2B2B; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F2F2;' />
+<rect x='92.76' y='93.40' width='402.37' height='20.79' style='stroke-width: 0.75; stroke: #2B2B2B; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F2F2;' />
+<rect x='92.76' y='120.76' width='402.37' height='20.79' style='stroke-width: 0.75; stroke: #2B2B2B; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F2F2;' />
+<rect x='92.76' y='148.12' width='402.37' height='20.79' style='stroke-width: 0.75; stroke: #2B2B2B; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F2F2;' />
+<rect x='92.76' y='175.47' width='402.37' height='20.79' style='stroke-width: 0.75; stroke: #2B2B2B; stroke-linecap: butt; stroke-linejoin: miter; fill: #F2F2F2;' />
+<rect x='92.76' y='38.69' width='7.24' height='20.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #9B9B9B;' />
+<rect x='92.76' y='66.04' width='7.24' height='20.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2A819E;' />
+<rect x='92.76' y='93.40' width='7.24' height='20.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2A819E;' />
+<rect x='92.76' y='120.76' width='7.24' height='20.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #2A819E;' />
+<rect x='92.76' y='148.12' width='7.24' height='20.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E6AA50;' />
+<rect x='92.76' y='175.47' width='7.24' height='20.79' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #D46A45;' />
+<text x='110.87' y='47.45' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='48.61px' lengthAdjust='spacingAndGlyphs'>Disease-level</text>
+<text x='110.87' y='56.21' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='40.50px' lengthAdjust='spacingAndGlyphs'>expression</text>
+<text x='110.87' y='74.81' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='41.75px' lengthAdjust='spacingAndGlyphs'>Paired joint</text>
+<text x='110.87' y='83.57' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='52.89px' lengthAdjust='spacingAndGlyphs'>compartments</text>
+<text x='110.87' y='106.54' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='71.22px' lengthAdjust='spacingAndGlyphs'>Donor-aware states</text>
+<text x='110.87' y='129.52' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='51.19px' lengthAdjust='spacingAndGlyphs'>Cross-dataset</text>
+<text x='110.87' y='138.28' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='38.78px' lengthAdjust='spacingAndGlyphs'>replication</text>
+<text x='110.87' y='156.88' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='43.84px' lengthAdjust='spacingAndGlyphs'>Within-state</text>
+<text x='110.87' y='165.64' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='54.56px' lengthAdjust='spacingAndGlyphs'>decomposition</text>
+<text x='110.87' y='184.24' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='64.80px' lengthAdjust='spacingAndGlyphs'>Blood-expression</text>
+<text x='110.87' y='193.00' style='font-size: 7.68px; font-weight: bold; font-family: "Arial";' textLength='31.12px' lengthAdjust='spacingAndGlyphs'>genetics</text>
+<text x='217.50' y='51.58' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='62.75px' lengthAdjust='spacingAndGlyphs'>Four tissue datasets</text>
+<text x='217.50' y='74.96' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='95.08px' lengthAdjust='spacingAndGlyphs'>GSE51588: 20 OA + 5 non-OA</text>
+<text x='217.50' y='82.91' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='21.31px' lengthAdjust='spacingAndGlyphs'>donors</text>
+<text x='217.50' y='102.32' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='86.77px' lengthAdjust='spacingAndGlyphs'>GSE104782: 1,464 cells; 10</text>
+<text x='217.50' y='110.27' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='21.31px' lengthAdjust='spacingAndGlyphs'>donors</text>
+<text x='217.50' y='129.68' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='106.52px' lengthAdjust='spacingAndGlyphs'>GSE57218: 33 pairs; GSE152805:</text>
+<text x='217.50' y='137.62' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='20.92px' lengthAdjust='spacingAndGlyphs'>3 pairs</text>
+<text x='217.50' y='161.01' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='100.72px' lengthAdjust='spacingAndGlyphs'>GSE152805: 7 states x 3 donors</text>
+<text x='217.50' y='188.37' style='font-size: 6.97px;fill: #2B2B2B; font-family: "Arial";' textLength='109.33px' lengthAdjust='spacingAndGlyphs'>eQTLGen cis-eQTL x FinnGen R12</text>
+<text x='378.45' y='51.47' style='font-size: 6.69px; font-style: italic;fill: #666666; font-family: "Arial";' textLength='65.25px' lengthAdjust='spacingAndGlyphs'>Sample within dataset</text>
+<text x='378.45' y='78.83' style='font-size: 6.69px; font-style: italic;fill: #666666; font-family: "Arial";' textLength='69.30px' lengthAdjust='spacingAndGlyphs'>Paired donor difference</text>
+<text x='378.45' y='106.19' style='font-size: 6.69px; font-style: italic;fill: #666666; font-family: "Arial";' textLength='70.05px' lengthAdjust='spacingAndGlyphs'>One estimate per donor</text>
+<text x='378.45' y='133.55' style='font-size: 6.69px; font-style: italic;fill: #666666; font-family: "Arial";' textLength='69.30px' lengthAdjust='spacingAndGlyphs'>Paired donor difference</text>
+<text x='378.45' y='160.90' style='font-size: 6.69px; font-style: italic;fill: #666666; font-family: "Arial";' textLength='58.20px' lengthAdjust='spacingAndGlyphs'>Donor x state mean</text>
+<text x='378.45' y='188.26' style='font-size: 6.69px; font-style: italic;fill: #666666; font-family: "Arial";' textLength='79.20px' lengthAdjust='spacingAndGlyphs'>Instrument-level Wald ratio</text>
+<text x='110.87' y='33.45' style='font-size: 7.54px; font-weight: bold; font-family: "Arial";' textLength='52.73px' lengthAdjust='spacingAndGlyphs'>Evidence layer</text>
+<text x='217.50' y='33.45' style='font-size: 7.54px; font-weight: bold; font-family: "Arial";' textLength='94.59px' lengthAdjust='spacingAndGlyphs'>Data and sample structure</text>
+<text x='378.45' y='33.45' style='font-size: 7.54px; font-weight: bold; font-family: "Arial";' textLength='51.89px' lengthAdjust='spacingAndGlyphs'>Inferential unit</text>
+<text x='10.64' y='14.32' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='7.33px' lengthAdjust='spacingAndGlyphs'>a</text>
+</g>
+<defs>
+  <clipPath id='cpNzIuNjR8NTE1LjI1fDIzNC40NHw0NTcuMjU='>
+    <rect x='72.64' y='234.44' width='442.61' height='222.81' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNzIuNjR8NTE1LjI1fDIzNC40NHw0NTcuMjU=)'>
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk=)'>
+</g>
+<g clip-path='url(#cpNzIuNjR8NTE1LjI1fDIzNC40NHw0NTcuMjU=)'>
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk=)'>
+</g>
+<defs>
+  <clipPath id='cpMy40OXwyOTIuMzl8MjA4LjMwfDQ3OC40MA=='>
+    <rect x='3.49' y='208.30' width='288.91' height='270.10' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMy40OXwyOTIuMzl8MjA4LjMwfDQ3OC40MA==)'>
+<rect x='3.49' y='208.30' width='288.91' height='270.10' style='stroke-width: 0.68; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk=)'>
+</g>
+<defs>
+  <clipPath id='cpMjkyLjM5fDUxNS4yNXwyMDguMzB8NDc4LjQw'>
+    <rect x='292.39' y='208.30' width='222.86' height='270.10' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjkyLjM5fDUxNS4yNXwyMDguMzB8NDc4LjQw)'>
+<rect x='292.39' y='208.30' width='222.86' height='270.10' style='stroke-width: 0.00; stroke: none;' />
+</g>
+<g clip-path='url(#cpMC4wMHw1MTguNzR8MC4wMHw0ODEuODk=)'>
+<rect x='72.64' y='234.44' width='216.26' height='222.81' style='stroke-width: 0.68; stroke: none; fill: #FFFFFF;' />
+<line x1='120.39' y1='457.25' x2='120.39' y2='234.44' style='stroke-width: 0.68; stroke: #9B9B9B; stroke-dasharray: 4.00,4.00; stroke-linecap: butt;' />
+<polyline points='135.26,280.40 135.26,272.04 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='135.26,276.22 89.73,276.22 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='89.73,280.40 89.73,272.04 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='177.26,350.03 177.26,341.67 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='177.26,345.85 98.83,345.85 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='98.83,350.03 98.83,341.67 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='246.41,419.66 246.41,411.30 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='246.41,415.48 116.48,415.48 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<polyline points='116.48,419.66 116.48,411.30 ' style='stroke-width: 1.17; stroke: #9B9B9B; stroke-linecap: butt;' />
+<circle cx='112.49' cy='276.22' r='2.89' style='stroke-width: 0.45; stroke: #2B2B2B; fill: #C8DDE5;' />
+<circle cx='138.05' cy='345.85' r='2.89' style='stroke-width: 0.45; stroke: #2B2B2B; fill: #C8DDE5;' />
+<circle cx='181.44' cy='415.48' r='2.89' style='stroke-width: 0.45; stroke: #2B2B2B; fill: #C8DDE5;' />
+<text x='139.61' y='278.56' style='font-size: 6.54px;fill: #666666; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>P=0.500</text>
+<text x='181.62' y='348.19' style='font-size: 6.54px;fill: #666666; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>P=0.354</text>
+<text x='250.76' y='417.82' style='font-size: 6.54px;fill: #666666; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>P=0.063</text>
+<polyline points='72.64,457.25 72.64,234.44 ' style='stroke-width: 0.75; stroke-linecap: square;' />
+<text x='69.51' y='414.24' text-anchor='end' style='font-size: 6.80px; font-family: "Arial";' textLength='33.25px' lengthAdjust='spacingAndGlyphs'>GSE82107</text>
+<text x='69.51' y='421.58' text-anchor='end' style='font-size: 6.80px; font-family: "Arial";' textLength='29.86px' lengthAdjust='spacingAndGlyphs'>Synovium</text>
+<text x='69.51' y='344.61' text-anchor='end' style='font-size: 6.80px; font-family: "Arial";' textLength='33.25px' lengthAdjust='spacingAndGlyphs'>GSE55235</text>
+<text x='69.51' y='351.95' text-anchor='end' style='font-size: 6.80px; font-family: "Arial";' textLength='29.86px' lengthAdjust='spacingAndGlyphs'>Synovium</text>
+<text x='69.51' y='274.98' text-anchor='end' style='font-size: 6.80px; font-family: "Arial";' textLength='33.25px' lengthAdjust='spacingAndGlyphs'>GSE51588</text>
+<text x='69.51' y='282.33' text-anchor='end' style='font-size: 6.80px; font-family: "Arial";' textLength='55.20px' lengthAdjust='spacingAndGlyphs'>Subchondral bone</text>
+<polyline points='70.90,415.48 72.64,415.48 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='70.90,345.85 72.64,345.85 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='70.90,276.22 72.64,276.22 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='72.64,457.25 288.91,457.25 ' style='stroke-width: 0.75; stroke-linecap: square;' />
+<polyline points='120.39,459.00 120.39,457.25 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='193.00,459.00 193.00,457.25 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='265.60,459.00 265.60,457.25 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<text x='120.39' y='465.26' text-anchor='middle' style='font-size: 6.80px; font-family: "Arial";' textLength='3.78px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='193.00' y='465.26' text-anchor='middle' style='font-size: 6.80px; font-family: "Arial";' textLength='3.78px' lengthAdjust='spacingAndGlyphs'>1</text>
+<text x='265.60' y='465.26' text-anchor='middle' style='font-size: 6.80px; font-family: "Arial";' textLength='3.78px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='180.78' y='473.45' text-anchor='middle' style='font-size: 7.00px; font-family: "Arial";' textLength='144.09px' lengthAdjust='spacingAndGlyphs'>PIEZO1 difference: OA minus control (95% CI)</text>
+<text x='72.64' y='229.38' style='font-size: 7.50px; font-weight: bold; font-family: "Arial";' textLength='142.95px' lengthAdjust='spacingAndGlyphs'>Disease-level contrasts are inconsistent</text>
+<text x='10.64' y='221.12' text-anchor='middle' style='font-size: 9.00px; font-weight: bold; font-family: "Arial";' textLength='5.50px' lengthAdjust='spacingAndGlyphs'>b</text>
+<rect x='308.82' y='257.86' width='196.60' height='27.22' style='stroke-width: 0.53; stroke: #D0D0D0; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFFF;' />
+<rect x='308.82' y='289.51' width='196.60' height='27.22' style='stroke-width: 0.53; stroke: #D0D0D0; stroke-linecap: butt; stroke-linejoin: miter; fill: #F7F7F7;' />
+<rect x='308.82' y='321.16' width='196.60' height='27.22' style='stroke-width: 0.53; stroke: #D0D0D0; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFFF;' />
+<rect x='308.82' y='352.81' width='196.60' height='27.22' style='stroke-width: 0.53; stroke: #D0D0D0; stroke-linecap: butt; stroke-linejoin: miter; fill: #F7F7F7;' />
+<rect x='308.82' y='384.46' width='196.60' height='27.22' style='stroke-width: 0.53; stroke: #D0D0D0; stroke-linecap: butt; stroke-linejoin: miter; fill: #FFFFFF;' />
+<rect x='308.82' y='416.11' width='196.60' height='27.22' style='stroke-width: 0.53; stroke: #D0D0D0; stroke-linecap: butt; stroke-linejoin: miter; fill: #F7F7F7;' />
+<line x1='361.90' y1='457.25' x2='361.90' y2='234.44' style='stroke-width: 0.64; stroke: #C8C8C8; stroke-linecap: butt;' />
+<line x1='433.66' y1='457.25' x2='433.66' y2='234.44' style='stroke-width: 0.64; stroke: #C8C8C8; stroke-linecap: butt;' />
+<text x='311.77' y='270.41' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='31.75px' lengthAdjust='spacingAndGlyphs'>Paired joint</text>
+<text x='311.77' y='276.71' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='40.14px' lengthAdjust='spacingAndGlyphs'>compartments</text>
+<text x='311.77' y='298.91' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='35.59px' lengthAdjust='spacingAndGlyphs'>Donor-aware</text>
+<text x='311.77' y='305.21' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='34.95px' lengthAdjust='spacingAndGlyphs'>chondrocyte</text>
+<text x='311.77' y='311.51' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='16.81px' lengthAdjust='spacingAndGlyphs'>states</text>
+<text x='311.77' y='333.71' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='49.86px' lengthAdjust='spacingAndGlyphs'>Programme-score</text>
+<text x='311.77' y='340.01' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='29.47px' lengthAdjust='spacingAndGlyphs'>replication</text>
+<text x='311.77' y='365.36' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='33.28px' lengthAdjust='spacingAndGlyphs'>Within-state</text>
+<text x='311.77' y='371.66' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='41.45px' lengthAdjust='spacingAndGlyphs'>decomposition</text>
+<text x='311.77' y='393.86' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='35.27px' lengthAdjust='spacingAndGlyphs'>Cross-tissue</text>
+<text x='311.77' y='400.15' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='26.22px' lengthAdjust='spacingAndGlyphs'>signature</text>
+<text x='311.77' y='406.45' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='21.67px' lengthAdjust='spacingAndGlyphs'>transfer</text>
+<text x='311.77' y='425.50' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='49.20px' lengthAdjust='spacingAndGlyphs'>Blood-expression</text>
+<text x='311.77' y='431.80' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='28.50px' lengthAdjust='spacingAndGlyphs'>Mendelian</text>
+<text x='311.77' y='438.10' style='font-size: 5.83px; font-weight: bold; font-family: "Arial";' textLength='39.84px' lengthAdjust='spacingAndGlyphs'>randomization</text>
+<text x='364.85' y='261.62' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='60.94px' lengthAdjust='spacingAndGlyphs'>Compartment-associated</text>
+<text x='364.85' y='267.52' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='48.81px' lengthAdjust='spacingAndGlyphs'>regulation within OA</text>
+<text x='364.85' y='273.42' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='31.23px' lengthAdjust='spacingAndGlyphs'>joints, free of</text>
+<text x='364.85' y='279.32' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='39.09px' lengthAdjust='spacingAndGlyphs'>between-person</text>
+<text x='364.85' y='285.22' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='29.72px' lengthAdjust='spacingAndGlyphs'>confounding</text>
+<text x='364.85' y='293.27' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='33.98px' lengthAdjust='spacingAndGlyphs'>Association of</text>
+<text x='364.85' y='299.17' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='39.70px' lengthAdjust='spacingAndGlyphs'>PIEZO1 with the</text>
+<text x='364.85' y='305.07' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='44.58px' lengthAdjust='spacingAndGlyphs'>state continuum at</text>
+<text x='364.85' y='310.97' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='35.48px' lengthAdjust='spacingAndGlyphs'>the level of the</text>
+<text x='364.85' y='316.87' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='13.94px' lengthAdjust='spacingAndGlyphs'>donor</text>
+<text x='364.85' y='324.92' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='34.88px' lengthAdjust='spacingAndGlyphs'>A reproducible</text>
+<text x='364.85' y='330.82' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='40.92px' lengthAdjust='spacingAndGlyphs'>programme-level</text>
+<text x='364.85' y='336.72' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='37.00px' lengthAdjust='spacingAndGlyphs'>contrast across</text>
+<text x='364.85' y='342.62' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='29.09px' lengthAdjust='spacingAndGlyphs'>three paired</text>
+<text x='364.85' y='348.52' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='20.62px' lengthAdjust='spacingAndGlyphs'>datasets</text>
+<text x='364.85' y='359.52' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='32.44px' lengthAdjust='spacingAndGlyphs'>Separation of</text>
+<text x='364.85' y='365.42' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='47.00px' lengthAdjust='spacingAndGlyphs'>within-state change</text>
+<text x='364.85' y='371.32' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='45.80px' lengthAdjust='spacingAndGlyphs'>from compositional</text>
+<text x='364.85' y='377.22' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='10.02px' lengthAdjust='spacingAndGlyphs'>shift</text>
+<text x='364.85' y='391.17' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='25.78px' lengthAdjust='spacingAndGlyphs'>Directional</text>
+<text x='364.85' y='397.07' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='34.59px' lengthAdjust='spacingAndGlyphs'>consistency of</text>
+<text x='364.85' y='402.97' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='51.53px' lengthAdjust='spacingAndGlyphs'>regional programmes</text>
+<text x='364.85' y='408.87' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='34.59px' lengthAdjust='spacingAndGlyphs'>across tissues</text>
+<text x='364.85' y='422.82' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='46.38px' lengthAdjust='spacingAndGlyphs'>Upper bounds on a</text>
+<text x='364.85' y='428.72' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='36.02px' lengthAdjust='spacingAndGlyphs'>systemic effect</text>
+<text x='364.85' y='434.62' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='44.58px' lengthAdjust='spacingAndGlyphs'>mediated by blood</text>
+<text x='364.85' y='440.52' style='font-size: 5.46px;fill: #2A819E; font-family: "Arial";' textLength='26.39px' lengthAdjust='spacingAndGlyphs'>expression</text>
+<text x='436.61' y='261.62' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='53.06px' lengthAdjust='spacingAndGlyphs'>A direct measurement</text>
+<text x='436.61' y='267.52' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='48.83px' lengthAdjust='spacingAndGlyphs'>of mechanical force,</text>
+<text x='436.61' y='273.42' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='38.48px' lengthAdjust='spacingAndGlyphs'>or proof that the</text>
+<text x='436.61' y='279.32' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='34.27px' lengthAdjust='spacingAndGlyphs'>contrast is OA</text>
+<text x='436.61' y='285.22' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='18.22px' lengthAdjust='spacingAndGlyphs'>specific</text>
+<text x='436.61' y='293.27' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='22.45px' lengthAdjust='spacingAndGlyphs'>Cell-level</text>
+<text x='436.61' y='299.17' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='30.02px' lengthAdjust='spacingAndGlyphs'>independent</text>
+<text x='436.61' y='305.07' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='43.36px' lengthAdjust='spacingAndGlyphs'>replication, or that</text>
+<text x='436.61' y='310.97' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='44.58px' lengthAdjust='spacingAndGlyphs'>the state transition</text>
+<text x='436.61' y='316.87' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='21.25px' lengthAdjust='spacingAndGlyphs'>is causal</text>
+<text x='436.61' y='327.87' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='40.62px' lengthAdjust='spacingAndGlyphs'>Inferred cell-type</text>
+<text x='436.61' y='333.77' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='28.50px' lengthAdjust='spacingAndGlyphs'>abundance:</text>
+<text x='436.61' y='339.67' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='41.27px' lengthAdjust='spacingAndGlyphs'>similarity weights</text>
+<text x='436.61' y='345.57' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='45.77px' lengthAdjust='spacingAndGlyphs'>are not proportions</text>
+<text x='436.61' y='359.52' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='23.38px' lengthAdjust='spacingAndGlyphs'>Statistical</text>
+<text x='436.61' y='365.42' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='40.33px' lengthAdjust='spacingAndGlyphs'>replication: three</text>
+<text x='436.61' y='371.32' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='36.38px' lengthAdjust='spacingAndGlyphs'>donors support</text>
+<text x='436.61' y='377.22' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='32.16px' lengthAdjust='spacingAndGlyphs'>direction only</text>
+<text x='436.61' y='391.17' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='35.80px' lengthAdjust='spacingAndGlyphs'>Equivalence of</text>
+<text x='436.61' y='397.07' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='41.53px' lengthAdjust='spacingAndGlyphs'>PIEZO1 direction</text>
+<text x='436.61' y='402.97' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='44.86px' lengthAdjust='spacingAndGlyphs'>between bone and</text>
+<text x='436.61' y='408.87' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='20.62px' lengthAdjust='spacingAndGlyphs'>cartilage</text>
+<text x='436.61' y='419.87' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='22.16px' lengthAdjust='spacingAndGlyphs'>Any local</text>
+<text x='436.61' y='425.77' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='26.09px' lengthAdjust='spacingAndGlyphs'>joint-tissue</text>
+<text x='436.61' y='431.67' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='35.78px' lengthAdjust='spacingAndGlyphs'>mechanism, or</text>
+<text x='436.61' y='437.57' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='34.30px' lengthAdjust='spacingAndGlyphs'>tissue-specific</text>
+<text x='436.61' y='443.47' style='font-size: 5.46px;fill: #D46A45; font-family: "Arial";' textLength='23.95px' lengthAdjust='spacingAndGlyphs'>regulation</text>
+<text x='311.77' y='252.55' style='font-size: 7.26px; font-weight: bold;fill: #2B2B2B; font-family: "Arial";' textLength='50.77px' lengthAdjust='spacingAndGlyphs'>Evidence layer</text>
+<text x='364.85' y='252.55' style='font-size: 7.26px; font-weight: bold;fill: #2A819E; font-family: "Arial";' textLength='39.84px' lengthAdjust='spacingAndGlyphs'>SUPPORTS</text>
+<text x='436.61' y='252.55' style='font-size: 7.26px; font-weight: bold;fill: #D46A45; font-family: "Arial";' textLength='74.88px' lengthAdjust='spacingAndGlyphs'>DOES NOT SUPPORT</text>
+<text x='295.69' y='222.62' text-anchor='middle' style='font-size: 13.20px; font-family: "Arial";' textLength='6.59px' lengthAdjust='spacingAndGlyphs'>c</text>
+</g>
+</g>
+</svg>

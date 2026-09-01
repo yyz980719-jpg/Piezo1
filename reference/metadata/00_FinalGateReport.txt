@@ -1,0 +1,28 @@
+PIEZO1 OA corrected V11/V9 final-review gate
+
+P0-00	PASS	Read-only baseline hashes and MasterQA locked
+P0-01	PASS	Main Figure 1 and Supplementary Figure S1 use P=0.500
+P0-02	PASS	Table S5/S20 use V=49, median 0.1412, P=0.0323; method states continuity correction
+P0-03	PASS	GSE55235 30/10 excluded/20 final; GSE82107 17/0/17; Data S1 expanded
+P0-04	PASS	Fully nested LODO BA=0.595, macro-F1=0.554; complete-pipeline permutation P=0.001
+P0-05	PASS_WITH_DOWNGRADE	HTC, RegC and EC excluded; total direction persisted; donor 113 within-state component reversed slightly
+P0-06	PASS	Unused maximum-score and normalized-entropy reporting removed; margin retained
+P1-07	PASS	Lateral-/medial-reference wording and exact share sentence applied
+P1-08	PASS	Objective, Results 3.3 heading and Figure S15 title downgraded
+P1-09	PASS	Original GEO-study references and formal 2026 joint-tissue eQTL reference added
+P1-10	PASS_LOCAL_HOLD_PUBLIC	Versioned local Git repository and v1.2.0 release package prepared; authenticated public upload/DOI pending
+P0-11	PASS_EXCEPT_EXTERNAL	Author identity/contact, ethics, CRediT, funding, COI and STROBE-MR checklist resolved; only public repository/DOI remains
+P1-12	PASS	Abstract=335 words; main text=3905 words; metadata cleaned
+P0-13	PASS_TECHNICAL	17-page main, 26-page supplement and 7-page checklist visually inspected; figures, tables, numeric conflicts and placeholders resolved
+V11C-01	PASS	Programme scoring unified to script 51; Table S6, Table S13 and Figure 4 use one final pipeline
+V11C-02	PASS	GSE152805 separated into reference-internal validation and external projection support; matrix source and QC limitations added
+V11C-03	PASS	Replication, mechanism and MR wording downgraded to concordance, donor heterogeneity and the whole-blood instrument boundary
+P0-14	HOLD_EXTERNAL	Final-audit documents issued with HOLD suffix until the public repository DOI is inserted
+V13SOP-01	PASS	S4 and S5 now report distinct DEG and programme preprocessing matching scripts 07 and 51
+V13SOP-02	PASS	L4 terminology is unclosed gene-set score across manuscript-facing text and current result labels
+V13SOP-03	PASS	Results 3.5 reports donor-heterogeneous within-state and compositional contributions
+V13SOP-04	PASS	CRTL1 resolved as a historical alias of HAPLN1 and is not counted separately
+V13SOP-05	PASS	Pseudobulk omnibus test reports F(6, 38.81)=3.252, P=0.0110, FDR=0.0663
+
+FINAL STATUS: HOLD
+Reason: manuscript, supplement, figures, ethics wording and STROBE-MR checklist pass final audit; authenticated public repository publication and DOI remain external actions.

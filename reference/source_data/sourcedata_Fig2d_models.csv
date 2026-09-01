@@ -1,0 +1,6 @@
+analysis,estimate,ci_lo,ci_hi,t,P,FDR,row,lab,emph
+"primary: moderated limma, unadjusted",-0.3634156636,-0.863584201357382,0.136752874157381,-1.49268622630894,0.147418615195731,0.434505381807256,Disease-by-compartment interaction,Moderated limma (primary),primary
+sensitivity: moderated limma + age + sex,-0.115674318384417,-1.11477077972209,0.883422142953257,-0.238780838732022,0.813274777924794,0.999973141025913,Disease-by-compartment interaction,Moderated limma + age and sex,other
+sensitivity: unmoderated Welch t,-0.3634156636,-0.752252297444791,0.0254209702447911,-2.05686453398486,0.0641887898950558,,Disease-by-compartment interaction,Unmoderated Welch t,other
+within-group: OA donors (n=20),-0.5035281644,-0.746177739738548,-0.260878589061453,-4.34328623361839,0.000350105476814771,,Within-donor compartment contrast,OA donors (n = 20),other
+within-group: non-OA donors (n=5),-0.1401125008,-0.510296969309324,0.230071967709324,-1.05086706795043,0.352613928352816,,Within-donor compartment contrast,Non-OA donors (n = 5),other

@@ -1,0 +1,72 @@
+PIEZO1 OA reproducible repository v2.0.0 audit
+
+PASS	script:07_deg_paired.R	authoritative script exists
+PASS	portable:07_deg_paired.R	no workstation absolute path
+PASS	script:10_scrna_piezo1.R	authoritative script exists
+PASS	portable:10_scrna_piezo1.R	no workstation absolute path
+PASS	script:11_mr_piezo1.R	authoritative script exists
+PASS	portable:11_mr_piezo1.R	no workstation absolute path
+PASS	script:11b_coloc_piezo1.R	authoritative script exists
+PASS	portable:11b_coloc_piezo1.R	no workstation absolute path
+PASS	script:32_power_primary_mr.py	authoritative script exists
+PASS	portable:32_power_primary_mr.py	no workstation absolute path
+PASS	python-syntax:32_power_primary_mr.py	AST parses
+PASS	script:33_deconvolution_mechano.R	authoritative script exists
+PASS	portable:33_deconvolution_mechano.R	no workstation absolute path
+PASS	script:35_replication_gse57218.R	authoritative script exists
+PASS	portable:35_replication_gse57218.R	no workstation absolute path
+PASS	script:39_gse152805.R	authoritative script exists
+PASS	portable:39_gse152805.R	no workstation absolute path
+PASS	script:40_P0_donorlevel_inference.R	authoritative script exists
+PASS	portable:40_P0_donorlevel_inference.R	no workstation absolute path
+PASS	script:41_P0_coloc_PPH3.R	authoritative script exists
+PASS	portable:41_P0_coloc_PPH3.R	no workstation absolute path
+PASS	script:50_P1_mr_exposure_audit.R	authoritative script exists
+PASS	portable:50_P1_mr_exposure_audit.R	no workstation absolute path
+PASS	script:50b_P1_gtex_scale_validation.py	authoritative script exists
+PASS	portable:50b_P1_gtex_scale_validation.py	no workstation absolute path
+PASS	python-syntax:50b_P1_gtex_scale_validation.py	AST parses
+PASS	script:51_P1_compositional_sensitivity.R	authoritative script exists
+PASS	portable:51_P1_compositional_sensitivity.R	no workstation absolute path
+PASS	script:52_P1_gse152805_within_state.R	authoritative script exists
+PASS	portable:52_P1_gse152805_within_state.R	no workstation absolute path
+PASS	script:53_P1_covariate_audit.py	authoritative script exists
+PASS	portable:53_P1_covariate_audit.py	no workstation absolute path
+PASS	python-syntax:53_P1_covariate_audit.py	AST parses
+PASS	script:54_P1_gse51588_covariate_sensitivity.R	authoritative script exists
+PASS	portable:54_P1_gse51588_covariate_sensitivity.R	no workstation absolute path
+PASS	script:70_rebuild_figure2_v9.R	authoritative script exists
+PASS	portable:70_rebuild_figure2_v9.R	no workstation absolute path
+PASS	script:71_v10_controlled_validations.R	authoritative script exists
+PASS	portable:71_v10_controlled_validations.R	no workstation absolute path
+PASS	script:72_rebuild_figure4_v10.R	authoritative script exists
+PASS	portable:72_rebuild_figure4_v10.R	no workstation absolute path
+PASS	script:73_rebuild_figure5_v10.R	authoritative script exists
+PASS	portable:73_rebuild_figure5_v10.R	no workstation absolute path
+PASS	script:74_rebuild_supplementary_figures_v8.R	authoritative script exists
+PASS	portable:74_rebuild_supplementary_figures_v8.R	no workstation absolute path
+PASS	script:75_rebuild_figure3_v10.R	authoritative script exists
+PASS	portable:75_rebuild_figure3_v10.R	no workstation absolute path
+PASS	script:80_final_execution_nested_validation.R	authoritative script exists
+PASS	portable:80_final_execution_nested_validation.R	no workstation absolute path
+PASS	script:81_rebuild_figure_s15_from_audit.R	authoritative script exists
+PASS	portable:81_rebuild_figure_s15_from_audit.R	no workstation absolute path
+PASS	script:82_rebuild_figure1_final.R	authoritative script exists
+PASS	portable:82_rebuild_figure1_final.R	no workstation absolute path
+PASS	script:83_final_audit_tables.R	authoritative script exists
+PASS	portable:83_final_audit_tables.R	no workstation absolute path
+PASS	script:86_rebuild_supp_figure_s1_final.R	authoritative script exists
+PASS	portable:86_rebuild_supp_figure_s1_final.R	no workstation absolute path
+PASS	json:.zenodo.json	valid JSON
+PASS	json:codemeta.json	valid JSON
+PASS	citation-version	CFF version matches release
+PASS	citation-orcid	ORCID present
+PASS	doi-not-fabricated	no unassigned DOI
+PASS	main-figures	five main figures
+PASS	supp-figures	fifteen supplementary figures
+PASS	reference-results	frozen result tables present
+PASS	input-manifest	raw/derived input inventory present
+PASS	bundled-probe-map	bundled derivative checksum
+PASS	sha256-inventory	332 files inventoried
+
+FINAL STATUS: PASS

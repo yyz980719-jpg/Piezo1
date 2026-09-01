@@ -1,0 +1,45 @@
+PIEZO1 OA corrected-SOP final-audit QA report
+
+Automated content checks:
+PASS	DOC-01 main opens	paragraphs=131
+PASS	DOC-02 supplement opens	tables=24
+PASS	DOC-03 STROBE-MR checklist opens	tables=1
+PASS	LAY-01 page counts	main=17; supplement=26; checklist=7
+PASS	META-01 abstract word gate	abstract_words=335
+PASS	META-02 main-text word gate	main_text_words=3905
+PASS	NUM-01 disease P rounding	Main result and legend use P=0.500
+PASS	NUM-02 Wilcoxon alignment	V=49; median=0.1412; P=0.0323
+PASS	FLOW-01 GSE55235 sample flow	30 deposited; 10 RA excluded; 20 analysed
+PASS	FLOW-02 GSE82107 sample flow	17 deposited; 17 analysed
+PASS	VAL-01 nested LODO	BA=0.595; macro-F1=0.554; null95=0.172; P=0.001
+PASS	VAL-02 recall gate	Excluded HTC, RegC and EC
+PASS	WORD-03 recall sensitivity status	Recall<0.60 analysis is identified as final-audit sensitivity, not prespecified
+PASS	WORD-04 abstract controlled wording	Requested Abstract phrases are present exactly
+PASS	WORD-05 corrected validation boundary	GSE152805 is external projection support; nested validation remains reference-internal
+PASS	WORD-06 concordance terminology	Programme claims use cross-dataset concordance rather than replication
+PASS	QC-01 single-cell source and limitations	Matrix source, QC thresholds, library result, doublet and ambient-RNA limitations are explicit
+PASS	PIPE-01 Table S6/S13 authoritative L0 match	Table S6 L0 values match Table S13 and script 51 is authoritative
+PASS	PIPE-02 programme manifest	Table S17 maps the authoritative programme script and weights
+PASS	WORD-07 donor-heterogeneous Kitagawa conclusion	Kitagawa interpretation is donor heterogeneous, not uniform
+PASS	WORD-08 whole-blood MR boundary	MR conclusion is bounded to the whole-blood instrument model
+PASS	FIG-01 controlled Figure 1 and Figure 4	Controlled terminology figures exist in PNG plus editable exports
+PASS	SENS-01 high-recall direction	All total deltas negative; donor 113 within-state component positive
+PASS	CONF-01 unused confidence metrics removed	Only top-1-minus-top-2 margin is reported
+PASS	WORD-01 Kitagawa terminology	Reference direction named explicitly
+PASS	WORD-02 claim downgrade	Objective and Results heading downgraded
+PASS	REF-01 references continuous	references=1-36; n=36
+PASS	REF-02 joint-tissue eQTL citation	Formal 2026 article cited as reference 36
+PASS	REPRO-01 no result wildcards	Table S17 enumerates exact files
+PASS	REPRO-02 local scripts/results present	scripts=25; results=50
+PASS	CLEAN-01 main comments/revisions	comments=False; tracked_revisions=False
+PASS	CLEAN-02 supplement comments/revisions	comments=False; tracked_revisions=False
+PASS	AUTHOR-01 identity and contact	Author name, verified ORCID and author-supplied e-mail are present
+PASS	AUTHOR-02 declarations	Single-author CRediT, no-funding and no-competing-interests statements are present
+PASS	ETHICS-01 final exemption statement	Final public-data exemption wording cites Article 32 and allocates original-study responsibility
+PASS	CLEAN-03 internal completion list removed	Internal author-completion section is absent from the Supplement
+PASS	STROBE-01 all mapped rows completed	All applicable item/subitem page and manuscript-text cells are populated
+PASS	REPO-01 local release package	scripts=25; results=60; local Git/tag prepared
+PASS	GATE-01 author/submission fields	unresolved_placeholders=0
+
+Technical QA: PASS
+Overall submission gate: HOLD

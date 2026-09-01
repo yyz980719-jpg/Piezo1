@@ -1,0 +1,4 @@
+outcome,nsnps,PP.H0,PP.H1,PP.H2,PP.H3,PP.H4,n_sig_eq,n_sig_fg,min_p_eq,min_p_fg,region_bonf,n_regsig_fg,fg_regsig,lead_eq_snp,lead_fg_snp,lead_distance_kb,same_lead_snp
+Hip OA,8790,4.59e-138,0.144,2.72e-137,0.8547,0.00103,919,0,2.18e-144,6.65e-06,5.69e-06,0,FALSE,rs56158123,rs258332,930.573,FALSE
+Knee OA,8790,9.62e-140,0.00303,3.17e-137,0.9969,4.16e-05,919,14,2.18e-144,3.06e-08,5.69e-06,78,TRUE,rs56158123,rs28481824,470.944,FALSE
+OA (overall),8790,1.59e-138,0.0501,3.02e-137,0.9492,0.000717,919,0,2.18e-144,1.09e-07,5.69e-06,38,TRUE,rs56158123,rs453528,896.651,FALSE

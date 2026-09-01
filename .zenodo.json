@@ -1,0 +1,27 @@
+{
+  "title": "PIEZO1 expression across human osteoarthritis contexts: reproducible research compendium",
+  "description": "Portable analysis code, public-input manifest, frozen statistical results, figure source data, published figure images, software lockfile and automated validation supporting a multi-dataset study of context-dependent PIEZO1 expression in human osteoarthritis.",
+  "upload_type": "software",
+  "publication_date": "2026-09-01",
+  "version": "2.0.0",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Yang, Yunze",
+      "orcid": "0009-0003-5907-7037",
+      "affiliation": "The First Affiliated Hospital of Heilongjiang University of Chinese Medicine"
+    }
+  ],
+  "keywords": [
+    "PIEZO1",
+    "osteoarthritis",
+    "single-cell RNA sequencing",
+    "transcriptomics",
+    "compositional data analysis",
+    "Mendelian randomization",
+    "reproducible research"
+  ],
+  "access_right": "open",
+  "notes": "No external funding supported this work. Third-party source data remain governed by their original repositories and access terms."
+}
+

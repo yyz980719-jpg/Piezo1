@@ -1,0 +1,18 @@
+claim_or_output	authoritative_script	frozen_location
+GSE51588 paired/disease/interaction	scripts/07_deg_paired.R	reference/results/07_DEG_*.csv
+GSE104782 processed object	scripts/10_scrna_piezo1.R	generated data/scrna/GSE104782_seurat.rds
+GSE104782 donor-aware inference	scripts/40_P0_donorlevel_inference.R	reference/results/40_P0_*.csv
+Transferred compartment signatures	scripts/35_replication_gse57218.R	reference/results/35_replication_signatures.csv
+Programme/compositional sensitivity	scripts/51_P1_compositional_sensitivity.R	reference/results/51_*.csv
+GSE152805 donor directions	scripts/39_gse152805.R	reference/results/39_*.csv
+GSE152805 within-state/decomposition	scripts/52_P1_gse152805_within_state.R	reference/results/52_*.csv
+MR primary estimates	scripts/11_mr_piezo1.R	reference/results/11_MR_*.csv
+MR audit and scale sensitivity	scripts/50_P1_mr_exposure_audit.R; scripts/50b_P1_gtex_scale_validation.py	reference/results/50_*.csv
+PIEZO1 colocalization	scripts/11b_coloc_piezo1.R; scripts/41_P0_coloc_PPH3.R	reference/results/11_coloc_*.csv; reference/results/41_P0_coloc_PPH3_report.csv
+MR power	scripts/32_power_primary_mr.py	reference/results/32_power_primary_mr.csv
+Covariate audit/sensitivity	scripts/53_P1_covariate_audit.py; scripts/54_P1_gse51588_covariate_sensitivity.R	reference/results/53_*.csv; reference/results/54_*.csv
+Nested state-transfer validation	scripts/71_v10_controlled_validations.R; scripts/80_final_execution_nested_validation.R; scripts/83_final_audit_tables.R	reference/metadata/04_*; reference/metadata/05_*
+Published main figures	scripts/70_rebuild_figure2_v9.R; scripts/75_rebuild_figure3_v10.R; scripts/72_rebuild_figure4_v10.R; scripts/73_rebuild_figure5_v10.R; scripts/82_rebuild_figure1_final.R	reference/figures/published/Figure1.png to Figure5.png
+Published supplementary figures	figure scripts plus frozen audited source data	reference/figures/published/Figure_S1.png to Figure_S15.png
+Exploratory immune/regulatory/genetic analyses	scripts/exploratory/*	reference/exploratory_results/*
+

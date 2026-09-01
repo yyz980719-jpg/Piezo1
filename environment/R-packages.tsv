@@ -1,0 +1,27 @@
+package	version	source
+R	4.6.1	R Project
+GEOquery	2.80.0	Bioconductor
+limma	3.68.4	Bioconductor
+data.table	1.18.4	CRAN
+ggplot2	4.0.3	CRAN
+clusterProfiler	4.20.0	Bioconductor
+org.Hs.eg.db	3.23.1	Bioconductor annotation
+ggrepel	0.9.8	CRAN
+pheatmap	1.0.13	CRAN
+readxl	1.5.0	CRAN
+Seurat	5.5.1	CRAN
+SeuratObject	5.4.0	CRAN
+Matrix	1.7-5	CRAN
+patchwork	1.3.2	CRAN
+dplyr	1.2.1	CRAN
+edgeR	4.10.1	Bioconductor
+coloc	5.2.3	CRAN
+scales	1.4.0	CRAN
+gridExtra	2.3.1	CRAN
+cowplot	1.2.0	CRAN
+ggpubr	1.0.0	CRAN
+svglite	2.2.2	CRAN
+ragg	1.5.2	CRAN
+BiocManager	1.30.27	CRAN
+renv	1.2.4	CRAN
+
