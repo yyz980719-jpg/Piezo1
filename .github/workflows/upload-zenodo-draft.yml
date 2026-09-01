@@ -1,0 +1,35 @@
+name: Upload Zenodo draft files
+
+on:
+  workflow_dispatch:
+    inputs:
+      deposition_id:
+        description: Zenodo draft/deposition identifier
+        required: true
+        default: "22231510"
+
+permissions:
+  contents: read
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install HTTP client
+        run: python -m pip install --disable-pip-version-check requests
+
+      - name: Verify and upload files to Zenodo draft
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+          ZENODO_DEPOSITION_ID: ${{ inputs.deposition_id }}
+        run: python scripts/upload_zenodo_draft.py
+
