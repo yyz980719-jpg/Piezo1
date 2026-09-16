@@ -1,5 +1,5 @@
 """Bounded V63 archive workflow. Never prints credentials or private share links."""
-import os,json
+import os,json,time
 import requests
 ROOT='https://zenodo.org/api'
 OLD='22231510'
@@ -7,7 +7,10 @@ S=requests.Session()
 S.headers['Authorization']='Bearer '+os.environ['ZENODO_TOKEN']
 def req(method,url,**kw):
     assert url.startswith(ROOT+'/')
-    r=S.request(method,url,timeout=(20,60),**kw)
+    for attempt in range(3 if method=='GET' else 1):
+        r=S.request(method,url,timeout=(20,60),**kw)
+        if r.status_code not in {429,502,503,504}:break
+        if attempt<2:time.sleep(5*(attempt+1))
     if not r.ok:raise RuntimeError(f'Zenodo {method} returned HTTP {r.status_code}')
     return r.json() if r.content else None
 def brief(d):
