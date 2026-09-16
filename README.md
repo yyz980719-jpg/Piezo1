@@ -1,5 +1,16 @@
 # PIEZO1 expression across human osteoarthritis contexts
 
+## Current selected-cell reproducibility release (V63)
+
+The [V63 reproducibility release](https://github.com/yyz980719-jpg/Piezo1/releases/tag/v63-reproducibility)
+contains the current PIEZO1–TRPV4 selected-cell analyses, figure source data and
+replay inputs. See [instructions and scope](releases/v63/README.md). Download its
+named ZIP asset for the complete inputs; the source-code archive alone is insufficient.
+No unpublished main or supplementary manuscript is included in this new release.
+The older version below and its Zenodo record are preserved and do not cover V63.
+
+## Preserved historical compendium
+
 Version **2.0.0** is a reproducible research compendium for the manuscript
 “Human osteoarthritis reveals context-dependent PIEZO1 expression across
 chondrocyte-state programmes.” It links public inputs, authoritative analysis

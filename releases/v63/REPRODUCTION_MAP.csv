@@ -1,0 +1,11 @@
+figure,saved_source_in_source_data,presentation_script,presentation_output,cell_level_entry_in_replay_modules,cell_level_inputs,numerical_output
+1,bridge.csv,prepare_and_plot.py,figures/Figure_1.pdf,V44_selected_cell_bridge/code/replay_bridge.py,V44_selected_cell_bridge/inputs/*.npz,donor_estimates.csv
+2ab,members.csv,prepare_and_plot.py,figures/Figure_2.pdf,V46_members/verify_present.py,V46 inputs/*.npz,member_donor.csv
+2cd,bridge.csv;members.csv,prepare_and_plot.py,figures/Figure_2.pdf,V44_selected_cell_bridge/code/replay_bridge.py; V46_members/verify_present.py,V44/V46 inputs/*.npz,donor_estimates.csv; member_donor.csv
+3ab,sensitivity.csv,prepare_and_plot.py,figures/Figure_3.pdf,V35_measurement/Review_bundle/code/replay_measurement.py,V35 legacy/audit selected-cell caches,donor_estimates.csv
+3c-f,thinning_samples.csv,prepare_and_plot.py,figures/Figure_3.pdf,V35_measurement/Review_bundle/code/replay_measurement.py,V35 legacy/audit selected-cell caches,sample_estimates.csv → thinning_absolute_donor.csv
+4,state_matched.csv;states.csv,prepare_and_plot.py,figures/Figure_4.pdf,V51_member_state/run.py,V51 inputs/ frozen arrays and labels,matched_donor_comparisons.csv;donor_state_estimates.csv
+5,Figure_5_source.csv;../analysis/results/donor_summary.csv;../analysis/results/group_summary.csv;../analysis/results/paired_summary.csv,plot_figure5_v63.py,figures/Figure_5.pdf,../analysis/run.py,V61_RepC_depth/analysis/inputs/*.npz,donor_summary.csv;group_summary.csv;paired_summary.csv
+A11.3,thinning_diagnostics.csv,prepare_and_plot.py,source_data/thinning_diagnostic_summary.csv,V35_measurement/Review_bundle/code/replay_review_outputs.py,V35 legacy and verified_external_counts,thinning_before_after_measurement_diagnostics.csv
+A11.9-A11.11,../analysis/reference_v61/summary.csv;../analysis/reference_v61/donor_estimates.csv;../analysis/reference_v61/detection_summary.csv,Not distributed: manuscript builder,Numerical tables only (see numerical_output),V61_RepC_depth/analysis/run.py,analysis/inputs/*.npz,sample_estimates.csv;donor_estimates.csv;summary.csv;expression_detection_ranges.csv;depth_joint_diagnostics.csv
+A13,../analysis/results/*.csv,Not distributed: manuscript builder,Numerical tables only (see numerical_output),../analysis/run.py,analysis/inputs/*.npz,donor_summary.csv;group_summary.csv;paired_summary.csv;sample_support_failures.csv
