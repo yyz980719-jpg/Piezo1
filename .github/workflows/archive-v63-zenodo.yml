@@ -1,0 +1,29 @@
+name: Archive V63 reproducibility on Zenodo
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: Explicit archive operation
+        type: choice
+        options: [inspect]
+        default: inspect
+permissions:
+  contents: read
+concurrency:
+  group: zenodo-v63-archive
+  cancel-in-progress: false
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install requests
+      - name: Inspect authorized existing record
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+          ARCHIVE_ACTION: ${{ inputs.action }}
+        run: python scripts/archive_v63_zenodo.py
