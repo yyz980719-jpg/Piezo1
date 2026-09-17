@@ -64,8 +64,8 @@ def main():
     assert action in {'prepare','publish'}
     data=asset()
     if action=='prepare':
-        latest=req('GET',d['links']['latest'])
-        assert str(latest['id'])==OLD, 'Newer version exists; inspect before mutation'
+        latest=req('GET',f'{ROOT}/records/{OLD}')
+        assert latest['metadata']['relations']['version'][0]['is_last'], 'Newer version exists; inspect before mutation'
         draft=req('GET',d['links']['latest_draft'])
         if str(draft['id'])==OLD:
             result=req('POST',f'{ROOT}/deposit/depositions/{OLD}/actions/newversion')
