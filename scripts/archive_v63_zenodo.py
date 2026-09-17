@@ -11,8 +11,9 @@ S=requests.Session()
 S.headers['Authorization']='Bearer '+os.environ['ZENODO_TOKEN']
 def req(method,url,**kw):
     assert url.startswith(ROOT+'/')
+    timeout=kw.pop('timeout',(20,180))
     for attempt in range(3 if method=='GET' else 1):
-        r=S.request(method,url,timeout=(20,180),allow_redirects=False,**kw)
+        r=S.request(method,url,timeout=timeout,allow_redirects=False,**kw)
         if r.status_code not in {429,502,503,504}:break
         if attempt<2:time.sleep(5*(attempt+1))
     if not r.ok:raise RuntimeError(f'Zenodo {method} returned HTTP {r.status_code}')
@@ -87,7 +88,8 @@ def main():
             print('Removed inherited draft snapshot:',name,flush=True)
         draft=req('GET',target)
         if not any(f.get('filename',f.get('key'))==NAME for f in draft['files']):
-            req('PUT',draft['links']['bucket']+'/'+NAME,data=data,headers={'Content-Type':'application/octet-stream'})
+            print('Streaming verified asset to draft',draft['id'],flush=True)
+            req('PUT',draft['links']['bucket']+'/'+NAME,data=io.BytesIO(data),timeout=(120,180),headers={'Content-Type':'application/octet-stream'})
         draft=req('GET',target)
         validate(draft,data)
         print('VERIFIED_DRAFT',json.dumps(brief(draft),indent=2),flush=True)
